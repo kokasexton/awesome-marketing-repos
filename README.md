@@ -174,8 +174,8 @@
 - **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** `[Intermediate]` `Best for: finding ready-to-clone marketing AI apps` — 100+ AI agent and RAG apps you can clone, customize, and ship. Includes marketing automation, email, and content generation examples.
   ![Stars](https://img.shields.io/github/stars/Shubhamsaboo/awesome-llm-apps?style=flat-square)
 
-- **[lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)** 🆕 `[Beginner]` `Best for: marketing teams running shared AI workflows` — Modern open-source ChatGPT/Claude UI with plugin support and multi-model access. A clean interface for marketing teams running AI workflows.
-  ![Stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=flat-square)
+- **[lobehub/lobehub](https://github.com/lobehub/lobehub)** 🆕 `[Beginner]` `Best for: marketing teams running shared AI workflows` — Modern open-source AI workspace with multi-model chat, agents, knowledge base support, and team-friendly workflows.
+  ![Stars](https://img.shields.io/github/stars/lobehub/lobehub?style=flat-square)
 
 - **[langgenius/dify](https://github.com/langgenius/dify)** `[Intermediate]` `Best for: shipping internal marketing agents without starting from scratch` — Production-ready platform for building agentic workflows, internal copilots, and knowledge apps with a strong UI and ops layer.
   ![Stars](https://img.shields.io/github/stars/langgenius/dify?style=flat-square)
@@ -219,8 +219,8 @@
 - **[pratik-dani/LinkedIn-Scraper](https://github.com/pratik-dani/LinkedIn-Scraper)** `[Intermediate]` `Best for: profile research and enrichment` — Open-source LinkedIn scraper for extracting profile data for research and prospecting purposes.
   ![Stars](https://img.shields.io/github/stars/pratik-dani/LinkedIn-Scraper?style=flat-square)
 
-- **[tomquirk/linkedin-api](https://github.com/tomquirk/linkedin-api)** `[Advanced]` `Best for: developers building LinkedIn-native tools` — Unofficial Python LinkedIn API client for accessing profile data, connections, and messaging programmatically.
-  ![Stars](https://img.shields.io/github/stars/tomquirk/linkedin-api?style=flat-square)
+- **[nsandman/linkedin-api](https://github.com/nsandman/linkedin-api)** `[Advanced]` `Best for: developers building LinkedIn-native tools` — Unofficial Python LinkedIn API wrapper for profile data, search, messaging, and account-native automation workflows.
+  ![Stars](https://img.shields.io/github/stars/nsandman/linkedin-api?style=flat-square)
 
 - **[joeyism/linkedin_scraper](https://github.com/joeyism/linkedin_scraper)** `[Intermediate]` `Best for: quick profile and company data extraction` — Python-based LinkedIn data scraper for profile, company, and job data extraction.
   ![Stars](https://img.shields.io/github/stars/joeyism/linkedin_scraper?style=flat-square)
@@ -228,8 +228,8 @@
 - **[spinlud/py-linkedin-jobs-scraper](https://github.com/spinlud/py-linkedin-jobs-scraper)** `[Intermediate]` `Best for: competitive hiring intelligence` — Scrape LinkedIn jobs at scale — useful for market research, talent intelligence, and competitive hiring analysis.
   ![Stars](https://img.shields.io/github/stars/spinlud/py-linkedin-jobs-scraper?style=flat-square)
 
-- **[phantombuster/phantombuster-sdk](https://github.com/phantombuster/phantombuster-sdk)** `[Intermediate]` `Best for: LinkedIn automation via cloud execution` — SDK for Phantombuster, one of the most popular LinkedIn automation and scraping platforms. Open SDK, cloud-hosted execution.
-  ![Stars](https://img.shields.io/github/stars/phantombuster/phantombuster-sdk?style=flat-square)
+- **[apify/apify-client-python](https://github.com/apify/apify-client-python)** `[Intermediate]` `Best for: LinkedIn automation via cloud execution` — Official Apify API client for running cloud scrapers and actors from Python. A practical replacement for hosted LinkedIn data-collection workflows.
+  ![Stars](https://img.shields.io/github/stars/apify/apify-client-python?style=flat-square)
 
 > ⚠️ **Note:** LinkedIn's Terms of Service restrict automated data collection. Always review the ToS and use these tools responsibly, especially in production environments.
 
@@ -237,7 +237,7 @@
 
 ## 📧 Email Marketing & Automation
 
-> **Start here if:** You want to replace expensive email tools or build your own marketing automation. `mautic/mautic` is the most full-featured self-hosted option. `listmonk/listmonk` is the fastest path to high-volume newsletters.
+> **Start here if:** You want to replace expensive email tools or build your own marketing automation. `mautic/mautic` is the most full-featured self-hosted option. `knadh/listmonk` is the fastest path to high-volume newsletters.
 
 - **[mautic/mautic](https://github.com/mautic/mautic)** `[Intermediate]` `Best for: replacing HubSpot or Marketo` — The world's most popular open-source marketing automation platform. Advanced segmentation, drip campaigns, lead scoring, and CRM integrations. Self-hostable.
   ![Stars](https://img.shields.io/github/stars/mautic/mautic?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/mautic/mautic?style=flat-square)
@@ -248,8 +248,8 @@
 - **[parcelvoy/platform](https://github.com/parcelvoy/platform)** `[Intermediate]` `Best for: data-driven multi-channel campaigns` — Open-source multi-channel marketing automation. Send data-driven emails, SMS, push notifications, and more. Built for modern data-driven teams.
   ![Stars](https://img.shields.io/github/stars/parcelvoy/platform?style=flat-square)
 
-- **[listmonk/listmonk](https://github.com/listmonk/listmonk)** `[Beginner]` `Best for: high-volume newsletters` — High-performance, self-hosted newsletter and mailing list manager with a powerful admin UI. Supports millions of subscribers.
-  ![Stars](https://img.shields.io/github/stars/listmonk/listmonk?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/listmonk/listmonk?style=flat-square)
+- **[knadh/listmonk](https://github.com/knadh/listmonk)** `[Beginner]` `Best for: high-volume newsletters` — High-performance, self-hosted newsletter and mailing list manager with a powerful admin UI. Supports millions of subscribers.
+  ![Stars](https://img.shields.io/github/stars/knadh/listmonk?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/knadh/listmonk?style=flat-square)
 
 - **[useplunk/plunk](https://github.com/useplunk/plunk)** `[Beginner]` `Best for: product teams sending transactional + marketing email` — Open-source email platform built on AWS SES. Trigger transactional and marketing emails from lead capture events.
   ![Stars](https://img.shields.io/github/stars/useplunk/plunk?style=flat-square)
@@ -257,8 +257,8 @@
 - **[formbricks/formbricks](https://github.com/formbricks/formbricks)** `[Beginner]` `Best for: NPS surveys and lead capture with follow-up` — Open-source survey and experience management platform. Capture leads, run NPS surveys, and collect user feedback with automated follow-up.
   ![Stars](https://img.shields.io/github/stars/formbricks/formbricks?style=flat-square)
 
-- **[nicedoc/nicedoc](https://github.com/nicedoc/nicedoc)** `[Beginner]` `Best for: product update newsletters` — Beautiful docs and changelogs via Markdown. Great for product update newsletters and release notes.
-  ![Stars](https://img.shields.io/github/stars/nicedoc/nicedoc?style=flat-square)
+- **[mkdocs/mkdocs](https://github.com/mkdocs/mkdocs)** `[Beginner]` `Best for: release notes, changelog hubs, and product docs` — Fast Markdown-based documentation site generator. A solid open-source way to publish product updates, release notes, and docs hubs from one content base.
+  ![Stars](https://img.shields.io/github/stars/mkdocs/mkdocs?style=flat-square)
 
 ---
 
@@ -300,7 +300,7 @@
 
 ## 🔍 SEO & Content Optimization
 
-> **Start here if:** You want AI to help you rank. `TheCraigHewitt/seomachine` is purpose-built for long-form SEO content. `nowork-studio/toprank` goes further — it monitors Search Console and auto-pushes optimizations. `every-app/open-seo` is the open alternative to Semrush.
+> **Start here if:** You want AI to help you rank. `TheCraigHewitt/seomachine` is purpose-built for long-form SEO content. `AgriciDaniel/claude-seo` is the strongest agentic audit option in this list. `every-app/open-seo` is the open alternative to Semrush.
 
 - **[every-app/open-seo](https://github.com/every-app/open-seo)** `[Intermediate]` `Best for: replacing Semrush/Ahrefs` — Own your SEO. Research keywords and competitors on your terms. 100% open source, pay-as-you-go alternative to Semrush and Ahrefs.
   ![Stars](https://img.shields.io/github/stars/every-app/open-seo?style=flat-square)
@@ -311,11 +311,11 @@
 - **[TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine)** `[Intermediate]` `Best for: long-form SEO content teams` — A specialized Claude Code workspace for creating long-form, SEO-optimized blog content. Research, write, analyze, and optimize content that ranks.
   ![Stars](https://img.shields.io/github/stars/TheCraigHewitt/seomachine?style=flat-square)
 
-- **[nowork-studio/toprank](https://github.com/nowork-studio/toprank)** 🆕 `[Advanced]` `Best for: always-on SEO and paid media optimization` — Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Always-on automation that continuously monitors Search Console and pushes live optimizations.
-  ![Stars](https://img.shields.io/github/stars/nowork-studio/toprank?style=flat-square)
+- **[AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)** 🆕 `[Advanced]` `Best for: agentic SEO audits inside Claude Code` — Open-source Claude Code SEO skill suite with parallel sub-skills across technical SEO, content quality, schema, GEO, and international SEO.
+  ![Stars](https://img.shields.io/github/stars/AgriciDaniel/claude-seo?style=flat-square)
 
-- **[nicholasgasior/gsfmt](https://github.com/nicholasgasior/gsfmt)** `[Intermediate]` `Best for: Search Console data analysis` — Google Search Console data formatter and analyzer for SEO insights.
-  ![Stars](https://img.shields.io/github/stars/nicholasgasior/gsfmt?style=flat-square)
+- **[houtini-ai/better-search-console](https://github.com/houtini-ai/better-search-console)** `[Intermediate]` `Best for: Search Console data analysis` — MCP-powered Google Search Console analysis for Claude and other AI assistants. Useful for finding decay, CTR gaps, cannibalization, and ranking opportunities from real GSC data.
+  ![Stars](https://img.shields.io/github/stars/houtini-ai/better-search-console?style=flat-square)
 
 ---
 
@@ -417,7 +417,7 @@
 
 ## 📢 Advertising & Paid Media
 
-> **Start here if:** You're managing paid media and want better data visibility or AI-assisted optimization. `airbyte` pulls all your ad data into one place. `metabase` turns that data into dashboards your team can actually use. `nowork-studio/toprank` goes further with always-on automated optimization.
+> **Start here if:** You're managing paid media and want better data visibility or AI-assisted optimization. `airbyte` pulls all your ad data into one place. `metabase` turns that data into dashboards your team can actually use. `mathiaschu/google-ads-analyzer` is the most direct Claude-native audit workflow here.
 
 - **[nocodb/nocodb](https://github.com/nocodb/nocodb)** `[Beginner]` `Best for: ad tracking databases without code` — Open-source Airtable alternative. Build ad tracking spreadsheets, campaign databases, and performance dashboards.
   ![Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=flat-square)
@@ -431,8 +431,8 @@
 - **[airbytehq/airbyte](https://github.com/airbytehq/airbyte)** `[Advanced]` `Best for: unified ad data from 300+ sources` — Open-source data integration platform. Pull data from Facebook Ads, Google Ads, TikTok Ads, and 300+ sources into your warehouse.
   ![Stars](https://img.shields.io/github/stars/airbytehq/airbyte?style=flat-square)
 
-- **[nowork-studio/toprank](https://github.com/nowork-studio/toprank)** 🆕 `[Advanced]` `Best for: automated Google Ads and Meta Ads optimization` — Claude Code skills for Google Ads and Meta Ads with always-on monitoring and automated optimization.
-  ![Stars](https://img.shields.io/github/stars/nowork-studio/toprank?style=flat-square)
+- **[mathiaschu/google-ads-analyzer](https://github.com/mathiaschu/google-ads-analyzer)** `[Advanced]` `Best for: AI-assisted Google Ads audits` — Claude Code skill plus MCP setup for expert-level Google Ads analysis, with GAQL templates, bidding diagnostics, and campaign audit workflows.
+  ![Stars](https://img.shields.io/github/stars/mathiaschu/google-ads-analyzer?style=flat-square)
 
 ---
 
@@ -449,8 +449,8 @@
 - **[flagsmith/flagsmith](https://github.com/flagsmith/flagsmith)** `[Intermediate]` `Best for: safe marketing experiment rollouts` — Open-source feature flag and remote config service. Ship and roll back marketing experiments safely.
   ![Stars](https://img.shields.io/github/stars/flagsmith/flagsmith?style=flat-square)
 
-- **[absmartly/sdk-go](https://github.com/absmartly/sdk-go)** `[Advanced]` `Best for: statistically rigorous A/B testing in Go` — A/B testing SDK for Go-based marketing backends.
-  ![Stars](https://img.shields.io/github/stars/absmartly/sdk-go?style=flat-square)
+- **[unleash/unleash](https://github.com/unleash/unleash)** `[Advanced]` `Best for: feature flags and controlled experiment rollouts` — Open-source feature management platform for gradual rollouts, audience targeting, and experimentation-safe launches.
+  ![Stars](https://img.shields.io/github/stars/unleash/unleash?style=flat-square)
 
 - **[medusajs/medusa](https://github.com/medusajs/medusa)** `[Advanced]` `Best for: product-led growth and commerce-driven marketing` — Open-source commerce infrastructure used by brands for community-driven marketing and product-led growth.
   ![Stars](https://img.shields.io/github/stars/medusajs/medusa?style=flat-square)
@@ -486,25 +486,25 @@
 
 ## 📚 Learning Resources & Prompts
 
-> **Start here if:** You want to level up on prompt engineering or stay current on AI. `dair-ai/Prompt-Engineering-Guide` is the definitive resource. `f/awesome-chatgpt-prompts` is the largest practical prompt collection. `dair-ai/ML-Papers-of-the-Week` is how you stay ahead of what's coming.
+> **Start here if:** You want to level up on prompt engineering or stay current on AI. `dair-ai/Prompt-Engineering-Guide` is the definitive resource. `f/prompts.chat` is the largest practical prompt collection. `dair-ai/AI-Papers-of-the-Week` is how you stay ahead of what's coming.
 
-- **[f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)** `[Beginner]` `Best for: marketers getting started with AI prompting` — A massive curated collection of ChatGPT prompts. Heavily used by marketers for copywriting, ideation, and research.
-  ![Stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/f/awesome-chatgpt-prompts?style=flat-square)
+- **[f/prompts.chat](https://github.com/f/prompts.chat)** `[Beginner]` `Best for: marketers getting started with AI prompting` — A massive curated collection of practical prompts. Heavily used for copywriting, ideation, research, and experimentation.
+  ![Stars](https://img.shields.io/github/stars/f/prompts.chat?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/f/prompts.chat?style=flat-square)
 
 - **[dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)** `[Intermediate]` `Best for: marketing teams adopting AI seriously` — Comprehensive guide to prompt engineering. Essential reading for marketers using AI tools.
   ![Stars](https://img.shields.io/github/stars/dair-ai/Prompt-Engineering-Guide?style=flat-square)
 
-- **[dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week)** 🆕 `[Advanced]` `Best for: staying ahead on AI capabilities` — Weekly curated AI/ML research papers. Stay ahead of the curve on AI capabilities that will shape marketing tech over the next 12 months.
-  ![Stars](https://img.shields.io/github/stars/dair-ai/ML-Papers-of-the-Week?style=flat-square)
+- **[dair-ai/AI-Papers-of-the-Week](https://github.com/dair-ai/AI-Papers-of-the-Week)** 🆕 `[Advanced]` `Best for: staying ahead on AI capabilities` — Weekly curated AI/ML research papers. Stay ahead of the curve on AI capabilities that will shape marketing tech over the next 12 months.
+  ![Stars](https://img.shields.io/github/stars/dair-ai/AI-Papers-of-the-Week?style=flat-square)
 
-- **[brexhq/prompt-security](https://github.com/brexhq/prompt-security)** `[Intermediate]` `Best for: teams building AI-powered marketing tools` — Practical guide to LLM security for teams building AI-powered marketing tools.
-  ![Stars](https://img.shields.io/github/stars/brexhq/prompt-security?style=flat-square)
+- **[promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)** `[Intermediate]` `Best for: teams testing prompts, models, and LLM safety` — Open-source prompt evaluation, red teaming, and vulnerability scanning toolkit for LLM-powered products and workflows.
+  ![Stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=flat-square)
 
 - **[openai/openai-cookbook](https://github.com/openai/openai-cookbook)** `[Intermediate]` `Best for: marketers building on OpenAI APIs` — Example code and guides for using OpenAI APIs. Includes marketing use cases like email generation and content scoring.
   ![Stars](https://img.shields.io/github/stars/openai/openai-cookbook?style=flat-square)
 
-- **[anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)** `[Intermediate]` `Best for: marketers building on Claude` — Practical recipes for using Claude in marketing automation, content generation, and data analysis.
-  ![Stars](https://img.shields.io/github/stars/anthropics/anthropic-cookbook?style=flat-square)
+- **[anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)** `[Intermediate]` `Best for: marketers building on Claude` — Practical recipes for using Claude in marketing automation, content generation, and data analysis.
+  ![Stars](https://img.shields.io/github/stars/anthropics/claude-cookbooks?style=flat-square)
 
 ---
 
@@ -554,7 +554,7 @@ Other well-maintained awesome lists that complement this one.
 |----------|------|-----|
 | Website & landing pages | [withastro/astro](https://github.com/withastro/astro) | Fast, free, content-first |
 | Analytics | [plausible/analytics](https://github.com/plausible/analytics) | 5-min setup, no cookies |
-| Email newsletter | [listmonk/listmonk](https://github.com/listmonk/listmonk) | Self-hosted, unlimited subscribers |
+| Email newsletter | [knadh/listmonk](https://github.com/knadh/listmonk) | Self-hosted, unlimited subscribers |
 | Social scheduling | [inovector/mixpost](https://github.com/inovector/mixpost) | No per-post limits |
 | AI content | [alwrity/alwrity](https://github.com/alwrity/alwrity) | All-in-one writing platform |
 | Automation | [n8n-io/n8n](https://github.com/n8n-io/n8n) | Connects everything |
@@ -580,7 +580,7 @@ Other well-maintained awesome lists that complement this one.
 | Data warehouse | [airbytehq/airbyte](https://github.com/airbytehq/airbyte) + [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) | Industry standard ETL + transform |
 | Dashboards | [metabase/metabase](https://github.com/metabase/metabase) or [apache/superset](https://github.com/apache/superset) | Self-serve BI |
 | Experimentation | [growthbook/growthbook](https://github.com/growthbook/growthbook) | Stats engine + warehouse native |
-| SEO | [nowork-studio/toprank](https://github.com/nowork-studio/toprank) | Always-on optimization |
+| SEO | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | Agentic SEO audits inside Claude Code |
 | Lead gen | [brightdata/ai-lead-generator](https://github.com/brightdata/ai-lead-generator) | AI-qualified B2B leads |
 
 ### 🏭 Agency Stack
@@ -612,7 +612,7 @@ Other well-maintained awesome lists that complement this one.
 | **Buffer / Hootsuite** | [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) · [inovector/mixpost](https://github.com/inovector/mixpost) | Postiz for AI features; Mixpost for simplicity |
 | **Semrush / Ahrefs** | [every-app/open-seo](https://github.com/every-app/open-seo) | Pay-as-you-go, fully open |
 | **Zapier / Make** | [n8n-io/n8n](https://github.com/n8n-io/n8n) · [activepieces/activepieces](https://github.com/activepieces/activepieces) | n8n for power; Activepieces for ease |
-| **Mailchimp / Klaviyo** | [listmonk/listmonk](https://github.com/listmonk/listmonk) · [mautic/mautic](https://github.com/mautic/mautic) | Listmonk for newsletters; Mautic for journeys |
+| **Mailchimp / Klaviyo** | [knadh/listmonk](https://github.com/knadh/listmonk) · [mautic/mautic](https://github.com/mautic/mautic) | Listmonk for newsletters; Mautic for journeys |
 | **Airtable** | [nocodb/nocodb](https://github.com/nocodb/nocodb) | Feature-complete replacement |
 | **Figma** | [penpot/penpot](https://github.com/penpot/penpot) | Self-hosted design and prototyping |
 | **Firebase** | [supabase/supabase](https://github.com/supabase/supabase) | Postgres-backed, real-time |
@@ -633,11 +633,11 @@ Other well-maintained awesome lists that complement this one.
 
 `#crm` → [Twenty](https://github.com/twentyhq/twenty) · [Erxes](https://github.com/erxes/erxes) · [Mautic](https://github.com/mautic/mautic)
 
-`#email` → [Mautic](https://github.com/mautic/mautic) · [Listmonk](https://github.com/listmonk/listmonk) · [Dittofeed](https://github.com/dittofeed/dittofeed) · [Plunk](https://github.com/useplunk/plunk) · [Parcelvoy](https://github.com/parcelvoy/platform)
+`#email` → [Mautic](https://github.com/mautic/mautic) · [Listmonk](https://github.com/knadh/listmonk) · [Dittofeed](https://github.com/dittofeed/dittofeed) · [Plunk](https://github.com/useplunk/plunk) · [Parcelvoy](https://github.com/parcelvoy/platform)
 
 `#lead-generation` → [OpenOutreach](https://github.com/eracle/OpenOutreach) · [ai-lead-generator](https://github.com/brightdata/ai-lead-generator) · [Crawlee](https://github.com/apify/crawlee) · [Lead-Generation](https://github.com/Madi-S/Lead-Generation)
 
-`#seo` → [open-seo](https://github.com/every-app/open-seo) · [seomachine](https://github.com/TheCraigHewitt/seomachine) · [toprank](https://github.com/nowork-studio/toprank) · [awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools)
+`#seo` → [open-seo](https://github.com/every-app/open-seo) · [seomachine](https://github.com/TheCraigHewitt/seomachine) · [claude-seo](https://github.com/AgriciDaniel/claude-seo) · [awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools)
 
 `#social-media` → [Postiz](https://github.com/gitroomhq/postiz-app) · [Mixpost](https://github.com/inovector/mixpost) · [Sherlock](https://github.com/sherlock-project/sherlock) · [Twint](https://github.com/twintproject/twint)
 
@@ -812,7 +812,7 @@ Primary KPI: [METRIC]
 
 | Repo | Category |
 |------|----------|
-| [absmartly/sdk-go](https://github.com/absmartly/sdk-go) | [Growth Engineering](#-growth-engineering--experimentation) |
+| [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | [SEO](#-seo--content-optimization) |
 | [activepieces/activepieces](https://github.com/activepieces/activepieces) | [Marketing Automation](#-marketing-automation-platforms) |
 | [agno-agi/agno](https://github.com/agno-agi/agno) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
 | [airbytehq/airbyte](https://github.com/airbytehq/airbyte) | [Analytics](#-analytics--attribution) |
@@ -820,23 +820,24 @@ Primary KPI: [METRIC]
 | [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) | [Awesome Lists](#️-awesome-lists--curations) |
 | [alternbits/awesome-ai-marketing](https://github.com/alternbits/awesome-ai-marketing) | [AI Tools](#-ai-marketing-tools--agents) |
 | [alwrity/alwrity](https://github.com/alwrity/alwrity) | [AI Tools](#-ai-marketing-tools--agents) |
-| [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) | [Learning Resources](#-learning-resources--prompts) |
+| [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | [Learning Resources](#-learning-resources--prompts) |
 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | [AI Tools](#-ai-marketing-tools--agents) |
 | [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) | [AI Tools](#-ai-marketing-tools--agents) |
 | [anthropics/skills](https://github.com/anthropics/skills) | [AI Tools](#-ai-marketing-tools--agents) |
 | [apache/superset](https://github.com/apache/superset) | [Advertising](#-advertising--paid-media) |
+| [apify/apify-client-python](https://github.com/apify/apify-client-python) | [LinkedIn Tools](#-linkedin-tools--outreach) |
 | [apify/crawlee](https://github.com/apify/crawlee) | [Lead Generation](#-lead-generation--crm) |
 | [AKCodez/promo-video-skill](https://github.com/AKCodez/promo-video-skill) | [Design](#-design--creative-assets) |
 | [automatisch/automatisch](https://github.com/automatisch/automatisch) | [Marketing Automation](#-marketing-automation-platforms) |
 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
 | [brightdata/ai-lead-generator](https://github.com/brightdata/ai-lead-generator) | [AI Tools](#-ai-marketing-tools--agents) |
-| [brexhq/prompt-security](https://github.com/brexhq/prompt-security) | [Learning Resources](#-learning-resources--prompts) |
+| [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | [Learning Resources](#-learning-resources--prompts) |
 | [browser-use/video-use](https://github.com/browser-use/video-use) | [Design](#-design--creative-assets) |
 | [caramaschiHG/awesome-ai-agents-2026](https://github.com/caramaschiHG/awesome-ai-agents-2026) | [AI Tools](#-ai-marketing-tools--agents) |
 | [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [AI Tools](#-ai-marketing-tools--agents) |
 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
-| [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) | [Learning Resources](#-learning-resources--prompts) |
+| [dair-ai/AI-Papers-of-the-Week](https://github.com/dair-ai/AI-Papers-of-the-Week) | [Learning Resources](#-learning-resources--prompts) |
 | [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | [Learning Resources](#-learning-resources--prompts) |
 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) | [Analytics](#-analytics--attribution) |
 | [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) | [Email Marketing](#-email-marketing--automation) |
@@ -845,7 +846,7 @@ Primary KPI: [METRIC]
 | [erxes/erxes](https://github.com/erxes/erxes) | [Lead Generation](#-lead-generation--crm) |
 | [every-app/open-seo](https://github.com/every-app/open-seo) | [SEO](#-seo--content-optimization) |
 | [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) | [AI Tools](#-ai-marketing-tools--agents) |
-| [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | [Learning Resources](#-learning-resources--prompts) |
+| [f/prompts.chat](https://github.com/f/prompts.chat) | [Learning Resources](#-learning-resources--prompts) |
 | [flagsmith/flagsmith](https://github.com/flagsmith/flagsmith) | [Growth Engineering](#-growth-engineering--experimentation) |
 | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
 | [formbricks/formbricks](https://github.com/formbricks/formbricks) | [Email Marketing](#-email-marketing--automation) |
@@ -859,6 +860,7 @@ Primary KPI: [METRIC]
 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [Design](#-design--creative-assets) |
 | [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | [Awesome Lists](#️-awesome-lists--curations) |
 | [hyperfx-ai/marketing-skills](https://github.com/hyperfx-ai/marketing-skills) | [AI Tools](#-ai-marketing-tools--agents) |
+| [houtini-ai/better-search-console](https://github.com/houtini-ai/better-search-console) | [SEO](#-seo--content-optimization) |
 | [Ibrahim-3d/orchestrator-supaconductor](https://github.com/Ibrahim-3d/orchestrator-supaconductor) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
 | [inovector/mixpost](https://github.com/inovector/mixpost) | [Social Media](#-social-media--community) |
 | [jim-schwoebel/awesome_ai_agents](https://github.com/jim-schwoebel/awesome_ai_agents) | [Awesome Lists](#️-awesome-lists--curations) |
@@ -872,30 +874,29 @@ Primary KPI: [METRIC]
 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
 | [langgenius/dify](https://github.com/langgenius/dify) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
 | [linkdAPI/linkedin-leads-discover](https://github.com/linkdAPI/linkedin-leads-discover) | [LinkedIn Tools](#-linkedin-tools--outreach) |
-| [listmonk/listmonk](https://github.com/listmonk/listmonk) | [Email Marketing](#-email-marketing--automation) |
-| [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
+| [knadh/listmonk](https://github.com/knadh/listmonk) | [Email Marketing](#-email-marketing--automation) |
+| [lobehub/lobehub](https://github.com/lobehub/lobehub) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
 | [Madi-S/Lead-Generation](https://github.com/Madi-S/Lead-Generation) | [Lead Generation](#-lead-generation--crm) |
 | [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) | [AI Tools](#-ai-marketing-tools--agents) |
 | [makeplane/plane](https://github.com/makeplane/plane) | [Social Media](#-social-media--community) |
 | [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) | [Awesome Lists](#️-awesome-lists--curations) |
 | [marketingtoolslist/awesome-marketing](https://github.com/marketingtoolslist/awesome-marketing) | [Awesome Lists](#️-awesome-lists--curations) |
 | [matomo-org/matomo](https://github.com/matomo-org/matomo) | [Analytics](#-analytics--attribution) |
+| [mathiaschu/google-ads-analyzer](https://github.com/mathiaschu/google-ads-analyzer) | [Advertising](#-advertising--paid-media) |
 | [mautic/mautic](https://github.com/mautic/mautic) | [Email Marketing](#-email-marketing--automation) |
 | [medusajs/medusa](https://github.com/medusajs/medusa) | [Growth Engineering](#-growth-engineering--experimentation) |
 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
 | [metabase/metabase](https://github.com/metabase/metabase) | [Analytics](#-analytics--attribution) |
 | [microsoft/autogen](https://github.com/microsoft/autogen) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
+| [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) | [Email Marketing](#-email-marketing--automation) |
 | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
-| [nicedoc/nicedoc](https://github.com/nicedoc/nicedoc) | [Email Marketing](#-email-marketing--automation) |
-| [nicholasgasior/gsfmt](https://github.com/nicholasgasior/gsfmt) | [SEO](#-seo--content-optimization) |
 | [nocodb/nocodb](https://github.com/nocodb/nocodb) | [Advertising](#-advertising--paid-media) |
-| [nowork-studio/toprank](https://github.com/nowork-studio/toprank) | [SEO](#-seo--content-optimization) |
+| [nsandman/linkedin-api](https://github.com/nsandman/linkedin-api) | [LinkedIn Tools](#-linkedin-tools--outreach) |
 | [openai/openai-cookbook](https://github.com/openai/openai-cookbook) | [Learning Resources](#-learning-resources--prompts) |
 | [OpenClaudia/openclaudia-skills](https://github.com/OpenClaudia/openclaudia-skills) | [AI Tools](#-ai-marketing-tools--agents) |
 | [parcelvoy/platform](https://github.com/parcelvoy/platform) | [Email Marketing](#-email-marketing--automation) |
 | [penpot/penpot](https://github.com/penpot/penpot) | [Design](#-design--creative-assets) |
-| [phantombuster/phantombuster-sdk](https://github.com/phantombuster/phantombuster-sdk) | [LinkedIn Tools](#-linkedin-tools--outreach) |
 | [plausible/analytics](https://github.com/plausible/analytics) | [Analytics](#-analytics--attribution) |
 | [PostHog/posthog](https://github.com/PostHog/posthog) | [Analytics](#-analytics--attribution) |
 | [pratik-dani/LinkedIn-Scraper](https://github.com/pratik-dani/LinkedIn-Scraper) | [LinkedIn Tools](#-linkedin-tools--outreach) |
@@ -912,12 +913,12 @@ Primary KPI: [METRIC]
 | [supabase/supabase](https://github.com/supabase/supabase) | [Lead Generation](#-lead-generation--crm) |
 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | [Design](#-design--creative-assets) |
 | [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | [SEO](#-seo--content-optimization) |
-| [tomquirk/linkedin-api](https://github.com/tomquirk/linkedin-api) | [LinkedIn Tools](#-linkedin-tools--outreach) |
 | [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) | [Marketing Automation](#-marketing-automation-platforms) |
 | [tuhinmallick/apify-linkedin-profile-search](https://github.com/tuhinmallick/apify-linkedin-profile-search) | [LinkedIn Tools](#-linkedin-tools--outreach) |
 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | [Lead Generation](#-lead-generation--crm) |
 | [twintproject/twint](https://github.com/twintproject/twint) | [Social Media](#-social-media--community) |
 | [umami-software/umami](https://github.com/umami-software/umami) | [Analytics](#-analytics--attribution) |
+| [unleash/unleash](https://github.com/unleash/unleash) | [Growth Engineering](#-growth-engineering--experimentation) |
 | [upstash/context7](https://github.com/upstash/context7) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
 | [useplunk/plunk](https://github.com/useplunk/plunk) | [Email Marketing](#-email-marketing--automation) |
 | [veasion/AiPPT](https://github.com/veasion/AiPPT) | [Design](#-design--creative-assets) |
