@@ -93,6 +93,9 @@
 - **[ericosiu/ai-marketing-skills](https://github.com/ericosiu/ai-marketing-skills)** 🆕 `[Intermediate]` `Best for: growth and revenue teams` — Open-source AI marketing skills covering growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation.
   ![Stars](https://img.shields.io/github/stars/ericosiu/ai-marketing-skills?style=flat-square)
 
+- **[Sequenzy/skills](https://github.com/Sequenzy/skills)** 🆕 `[Beginner]` `Best for: teams automating lifecycle email in Sequenzy` — Agent skills for operating Sequenzy email marketing workflows, subscribers, campaigns, templates, sequences, and transactional email from compatible AI CLIs.
+  ![Stars](https://img.shields.io/github/stars/Sequenzy/skills?style=flat-square)
+
 - **[alwrity/alwrity](https://github.com/alwrity/alwrity)** 🆕 `[Beginner]` `Best for: content teams replacing Jasper/Copy.ai` — Free, open-source AI writing platform. Write blogs, website copy, social posts, and ads. Includes SEO audits, scheduling, publishing, and analytics in one tool.
   ![Stars](https://img.shields.io/github/stars/alwrity/alwrity?style=flat-square)
 
@@ -905,6 +908,7 @@ Primary KPI: [METRIC]
 | [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
 | [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) | [Analytics](#-analytics--attribution) |
 | [serpapi/awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools) | [SEO](#-seo--content-optimization) |
+| [Sequenzy/skills](https://github.com/Sequenzy/skills) | [AI Tools](#-ai-marketing-tools--agents) |
 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | [Social Media](#-social-media--community) |
 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
