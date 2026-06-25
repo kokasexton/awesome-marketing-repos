@@ -317,6 +317,9 @@
 - **[houtini-ai/better-search-console](https://github.com/houtini-ai/better-search-console)** `[Intermediate]` `Best for: Search Console data analysis` — MCP-powered Google Search Console analysis for Claude and other AI assistants. Useful for finding decay, CTR gaps, cannibalization, and ranking opportunities from real GSC data.
   ![Stars](https://img.shields.io/github/stars/houtini-ai/better-search-console?style=flat-square)
 
+- **[nowork-studio/NotFair](https://github.com/nowork-studio/NotFair)** `[Intermediate]` `Best for: SEO/GEO + paid ads from Claude Code` — Open-source Claude Code skills for SEO, GEO, and paid ads, with Google Search Console, GA4, Google Ads, and Meta Ads pulled in live via MCP.
+  ![Stars](https://img.shields.io/github/stars/nowork-studio/NotFair?style=flat-square)
+
 ---
 
 ## 📱 Social Media & Community
