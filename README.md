@@ -41,6 +41,7 @@
 - **[upstash/context7](https://github.com/upstash/context7)** — Up-to-date docs for coding agents and AI editors → [AI Frameworks](#-ai-frameworks--llm-infrastructure)
 - **[getzep/graphiti](https://github.com/getzep/graphiti)** — Real-time knowledge graph memory for agents → [AI Frameworks](#-ai-frameworks--llm-infrastructure)
 - **[hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)** — Best curated list of Claude Code ecosystem repos, skills, and hooks → [Awesome Lists](#️-awesome-lists--curations)
+- **[coreyhaines31/seo](https://github.com/coreyhaines31/marketingskills)** — Dedicated SEO skill pack for Claude Code — technical SEO, programmatic SEO, schema markup, GEO, and rank-tracking analysis → [SEO & Content Optimization](#-seo--content-optimization)
 
 ---
 
@@ -316,6 +317,9 @@
 
 - **[houtini-ai/better-search-console](https://github.com/houtini-ai/better-search-console)** `[Intermediate]` `Best for: Search Console data analysis` — MCP-powered Google Search Console analysis for Claude and other AI assistants. Useful for finding decay, CTR gaps, cannibalization, and ranking opportunities from real GSC data.
   ![Stars](https://img.shields.io/github/stars/houtini-ai/better-search-console?style=flat-square)
+
+- **[coreyhaines31/seo](https://github.com/coreyhaines31/marketingskills)** `[Beginner]` `Best for: SEO-focused marketing teams and AI-first agencies` — Dedicated SEO skill pack for Claude Code and AI agents. Technical SEO audits, programmatic SEO, schema markup, GEO, and rank-tracking analysis via `curl -fsSL marketingskills.net/seo | bash`.
+  ![Stars](https://img.shields.io/github/stars/coreyhaines31/marketingskills?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/coreyhaines31/marketingskills?style=flat-square)
 
 ---
 
@@ -637,7 +641,7 @@ Other well-maintained awesome lists that complement this one.
 
 `#lead-generation` → [OpenOutreach](https://github.com/eracle/OpenOutreach) · [ai-lead-generator](https://github.com/brightdata/ai-lead-generator) · [Crawlee](https://github.com/apify/crawlee) · [Lead-Generation](https://github.com/Madi-S/Lead-Generation)
 
-`#seo` → [open-seo](https://github.com/every-app/open-seo) · [seomachine](https://github.com/TheCraigHewitt/seomachine) · [claude-seo](https://github.com/AgriciDaniel/claude-seo) · [awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools)
+`#seo` → [open-seo](https://github.com/every-app/open-seo) · [seomachine](https://github.com/TheCraigHewitt/seomachine) · [claude-seo](https://github.com/AgriciDaniel/claude-seo) · [awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools) · [seo](https://github.com/coreyhaines31/marketingskills)
 
 `#social-media` → [Postiz](https://github.com/gitroomhq/postiz-app) · [Mixpost](https://github.com/inovector/mixpost) · [Sherlock](https://github.com/sherlock-project/sherlock) · [Twint](https://github.com/twintproject/twint)
 
@@ -836,6 +840,7 @@ Primary KPI: [METRIC]
 | [caramaschiHG/awesome-ai-agents-2026](https://github.com/caramaschiHG/awesome-ai-agents-2026) | [AI Tools](#-ai-marketing-tools--agents) |
 | [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [AI Tools](#-ai-marketing-tools--agents) |
+| [coreyhaines31/seo](https://github.com/coreyhaines31/marketingskills) | [SEO](#-seo--content-optimization) |
 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
 | [dair-ai/AI-Papers-of-the-Week](https://github.com/dair-ai/AI-Papers-of-the-Week) | [Learning Resources](#-learning-resources--prompts) |
 | [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | [Learning Resources](#-learning-resources--prompts) |
