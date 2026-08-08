@@ -6,7 +6,7 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/kokasexton/awesome-marketing-repos?style=social)
 ![Last Updated](https://img.shields.io/badge/updated-August%202026-blue)
-![Repos](https://img.shields.io/badge/repos-125%2B-brightgreen)
+![Repos](https://img.shields.io/badge/repos-130%2B-brightgreen)
 
 ---
 
@@ -31,6 +31,11 @@
 
 *The latest additions to this list — updated August 2026.*
 
+- **[sergebulaev/linkedin-skills](https://github.com/sergebulaev/linkedin-skills)** — Claude Code/Codex skills for LinkedIn growth: posts, comments, feed analysis → [LinkedIn Tools](#-linkedin-tools--outreach)
+- **[minhnv0807/ai-business-skills](https://github.com/minhnv0807/ai-business-skills)** — 138 bilingual marketing skills with role SOP packs → [AI Marketing Tools](#-ai-marketing-tools--agents)
+- **[rampstackco/claude-skills](https://github.com/rampstackco/claude-skills)** — Stack-agnostic skills for the full website lifecycle → [AI Marketing Tools](#-ai-marketing-tools--agents)
+- **[iannuttall/seo](https://github.com/iannuttall/seo)** — SEO skill + MCP server with 70+ audit tools → [SEO & Content Optimization](#-seo--content-optimization)
+- **[LaGrowthMachine/gtm-system](https://github.com/LaGrowthMachine/gtm-system)** — GTM skills + MCP server for Sales teams → [LinkedIn Tools](#-linkedin-tools--outreach)
 - **[mikiarlo3/ai-copywriter](https://github.com/mikiarlo3/ai-copywriter)** — Open-source AI copywriter built on real copywriting frameworks with a human tone → [AI Marketing Tools](#-ai-marketing-tools--agents)
 - **[vercel-labs/marketing-team-eve-template](https://github.com/vercel-labs/marketing-team-eve-template)** — Official Vercel Labs template: a team of marketing agents on the Eve framework → [AI Marketing Tools](#-ai-marketing-tools--agents)
 - **[jdevalk/specification.website](https://github.com/jdevalk/specification.website)** — Joost de Valk's living spec for HTML, accessibility, SEO, and agent-ready websites → [SEO & Content Optimization](#-seo--content-optimization)
@@ -143,6 +148,12 @@
 - **[vercel-labs/marketing-team-eve-template](https://github.com/vercel-labs/marketing-team-eve-template)** 🆕 `[Intermediate]` `Best for: standing up a full marketing agent team` — Official Vercel Labs template: a team of marketing agents on the Eve framework. Clone it, brief it, and get a working AI marketing org wired to your repo.
   ![Stars](https://img.shields.io/github/stars/vercel-labs/marketing-team-eve-template?style=flat-square)
 
+- **[minhnv0807/ai-business-skills](https://github.com/minhnv0807/ai-business-skills)** 🆕 `[Beginner]` `Best for: bilingual and global marketing teams` — 138 AI marketing skills (69 VN + 69 Global) for Claude Code, OpenCode, Codex, and VS Code. Four role SOP packs — content, design, performance, leader ops — plus strategy, personal brand, and AI avatar workflows.
+  ![Stars](https://img.shields.io/github/stars/minhnv0807/ai-business-skills?style=flat-square)
+
+- **[rampstackco/claude-skills](https://github.com/rampstackco/claude-skills)** 🆕 `[Intermediate]` `Best for: full website lifecycle marketing` — Stack-agnostic Claude Skills covering brand, design, content, SEO, dev, ops, growth, and research. Build, ship, audit, and optimize a site from one skill pack.
+  ![Stars](https://img.shields.io/github/stars/rampstackco/claude-skills?style=flat-square)
+
 ---
 
 ## 🧠 AI Frameworks & LLM Infrastructure
@@ -242,6 +253,12 @@
 - **[apify/apify-client-python](https://github.com/apify/apify-client-python)** `[Intermediate]` `Best for: LinkedIn automation via cloud execution` — Official Apify API client for running cloud scrapers and actors from Python. A practical replacement for hosted LinkedIn data-collection workflows.
   ![Stars](https://img.shields.io/github/stars/apify/apify-client-python?style=flat-square)
 
+- **[sergebulaev/linkedin-skills](https://github.com/sergebulaev/linkedin-skills)** 🆕 `[Beginner]` `Best for: LinkedIn content and publishing cadence` — Claude Code and Codex skills for LinkedIn growth: write human-sounding posts, craft comments that get noticed, analyze your feed, and build a publishing cadence from your terminal.
+  ![Stars](https://img.shields.io/github/stars/sergebulaev/linkedin-skills?style=flat-square)
+
+- **[LaGrowthMachine/gtm-system](https://github.com/LaGrowthMachine/gtm-system)** 🆕 `[Advanced]` `Best for: Sales and GTM teams running multichannel outreach` — Open-source Claude skills + MCP server for Sales and GTM teams: build Sales Navigator searches, write multichannel campaigns, and handle every reply from Claude.
+  ![Stars](https://img.shields.io/github/stars/LaGrowthMachine/gtm-system?style=flat-square)
+
 > ⚠️ **Note:** LinkedIn's Terms of Service restrict automated data collection. Always review the ToS and use these tools responsibly, especially in production environments.
 
 ---
@@ -333,6 +350,9 @@
 
 - **[aigclink/geolook](https://github.com/aigclink/geolook)** 🆕 `[Advanced]` `Best for: running GEO like an SEO program` — Open-source end-to-end generative engine optimization: status analysis, diagnosis, strategy, tickets, execution, and verification for AI-search visibility.
   ![Stars](https://img.shields.io/github/stars/aigclink/geolook?style=flat-square)
+
+- **[iannuttall/seo](https://github.com/iannuttall/seo)** 🆕 `[Intermediate]` `Best for: agent-driven SEO audits with your own data` — "The only SEO skill your agent needs." 70+ SEO audit tools through a local CLI and MCP server, using your own crawl, Search Console, and GA4 data.
+  ![Stars](https://img.shields.io/github/stars/iannuttall/seo?style=flat-square)
 
 ---
 
@@ -883,6 +903,7 @@ Primary KPI: [METRIC]
 | [hyperfx-ai/marketing-skills](https://github.com/hyperfx-ai/marketing-skills) | [AI Tools](#-ai-marketing-tools--agents) |
 | [houtini-ai/better-search-console](https://github.com/houtini-ai/better-search-console) | [SEO](#-seo--content-optimization) |
 | [Ibrahim-3d/orchestrator-supaconductor](https://github.com/Ibrahim-3d/orchestrator-supaconductor) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
+| [iannuttall/seo](https://github.com/iannuttall/seo) | [SEO](#-seo--content-optimization) |
 | [inovector/mixpost](https://github.com/inovector/mixpost) | [Social Media](#-social-media--community) |
 | [jdevalk/specification.website](https://github.com/jdevalk/specification.website) | [SEO](#-seo--content-optimization) |
 | [jim-schwoebel/awesome_ai_agents](https://github.com/jim-schwoebel/awesome_ai_agents) | [Awesome Lists](#️-awesome-lists--curations) |
@@ -893,6 +914,7 @@ Primary KPI: [METRIC]
 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | [Social Media](#-social-media--community) |
 | [kostja94/marketing-skills](https://github.com/kostja94/marketing-skills) | [AI Tools](#-ai-marketing-tools--agents) |
 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
+| [LaGrowthMachine/gtm-system](https://github.com/LaGrowthMachine/gtm-system) | [LinkedIn Tools](#-linkedin-tools--outreach) |
 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
 | [langgenius/dify](https://github.com/langgenius/dify) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
 | [linkdAPI/linkedin-leads-discover](https://github.com/linkdAPI/linkedin-leads-discover) | [LinkedIn Tools](#-linkedin-tools--outreach) |
@@ -911,6 +933,7 @@ Primary KPI: [METRIC]
 | [metabase/metabase](https://github.com/metabase/metabase) | [Analytics](#-analytics--attribution) |
 | [microsoft/autogen](https://github.com/microsoft/autogen) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
 | [mikiarlo3/ai-copywriter](https://github.com/mikiarlo3/ai-copywriter) | [AI Tools](#-ai-marketing-tools--agents) |
+| [minhnv0807/ai-business-skills](https://github.com/minhnv0807/ai-business-skills) | [AI Tools](#-ai-marketing-tools--agents) |
 | [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) | [Email Marketing](#-email-marketing--automation) |
 | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
@@ -927,6 +950,8 @@ Primary KPI: [METRIC]
 | [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
 | [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
 | [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) | [Analytics](#-analytics--attribution) |
+| [rampstackco/claude-skills](https://github.com/rampstackco/claude-skills) | [AI Tools](#-ai-marketing-tools--agents) |
+| [sergebulaev/linkedin-skills](https://github.com/sergebulaev/linkedin-skills) | [LinkedIn Tools](#-linkedin-tools--outreach) |
 | [serpapi/awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools) | [SEO](#-seo--content-optimization) |
 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | [Social Media](#-social-media--community) |
 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
@@ -988,4 +1013,4 @@ If you find this list useful, please ⭐ star it and share it with your marketin
 
 ---
 
-*Maintained by [@kokasexton](https://github.com/kokasexton) · Last updated August 2026 · 125+ repos across 14 categories*
+*Maintained by [@kokasexton](https://github.com/kokasexton) · Last updated August 2026 · 130+ repos across 14 categories*
