@@ -5,8 +5,8 @@
 **[Contribute](#contributing)** · **[Request a Repo](#contributing)** · **[Share](#share)**
 
 ![GitHub stars](https://img.shields.io/github/stars/kokasexton/awesome-marketing-repos?style=social)
-![Last Updated](https://img.shields.io/badge/updated-June%202026-blue)
-![Repos](https://img.shields.io/badge/repos-120%2B-brightgreen)
+![Last Updated](https://img.shields.io/badge/updated-August%202026-blue)
+![Repos](https://img.shields.io/badge/repos-125%2B-brightgreen)
 
 ---
 
@@ -29,8 +29,13 @@
 
 ## 🆕 Recently Added
 
-*The latest additions to this list — updated June 2026.*
+*The latest additions to this list — updated August 2026.*
 
+- **[mikiarlo3/ai-copywriter](https://github.com/mikiarlo3/ai-copywriter)** — Open-source AI copywriter built on real copywriting frameworks with a human tone → [AI Marketing Tools](#-ai-marketing-tools--agents)
+- **[vercel-labs/marketing-team-eve-template](https://github.com/vercel-labs/marketing-team-eve-template)** — Official Vercel Labs template: a team of marketing agents on the Eve framework → [AI Marketing Tools](#-ai-marketing-tools--agents)
+- **[jdevalk/specification.website](https://github.com/jdevalk/specification.website)** — Joost de Valk's living spec for HTML, accessibility, SEO, and agent-ready websites → [SEO & Content Optimization](#-seo--content-optimization)
+- **[aigclink/geolook](https://github.com/aigclink/geolook)** — End-to-end open-source GEO implementation: analyze, diagnose, execute, verify → [SEO & Content Optimization](#-seo--content-optimization)
+- **[tsingyuai/growth-lab](https://github.com/tsingyuai/growth-lab)** — End-to-end growth tool that researches the market, executes campaigns, and iterates → [Growth Engineering](#-growth-engineering--experimentation)
 - **[anthropics/claude-code](https://github.com/anthropics/claude-code)** — Official Claude Code repo for repo-native AI execution → [AI Marketing Tools](#-ai-marketing-tools--agents)
 - **[anthropics/skills](https://github.com/anthropics/skills)** — Official reusable agent skills library from Anthropic → [AI Marketing Tools](#-ai-marketing-tools--agents)
 - **[garrytan/gstack](https://github.com/garrytan/gstack)** — Opinionated multi-role AI operating system for Claude Code → [AI Marketing Tools](#-ai-marketing-tools--agents)
@@ -96,6 +101,9 @@
 - **[alwrity/alwrity](https://github.com/alwrity/alwrity)** 🆕 `[Beginner]` `Best for: content teams replacing Jasper/Copy.ai` — Free, open-source AI writing platform. Write blogs, website copy, social posts, and ads. Includes SEO audits, scheduling, publishing, and analytics in one tool.
   ![Stars](https://img.shields.io/github/stars/alwrity/alwrity?style=flat-square)
 
+- **[mikiarlo3/ai-copywriter](https://github.com/mikiarlo3/ai-copywriter)** 🆕 `[Beginner]` `Best for: teams that want copy that doesn't read like AI` — Open-source AI copywriter built on real copywriting frameworks and marketing psychology, tuned for a human tone. ~1,000 stars in its first two weeks.
+  ![Stars](https://img.shields.io/github/stars/mikiarlo3/ai-copywriter?style=flat-square)
+
 - **[anthropics/claude-code](https://github.com/anthropics/claude-code)** `[Beginner]` `Best for: marketing operators who want AI inside the real repo and terminal` — Official Claude Code repo. The fastest path to turning prompts into audits, edits, scripts, and repo-native marketing workflows without building your own agent shell.
   ![Stars](https://img.shields.io/github/stars/anthropics/claude-code?style=flat-square)
 
@@ -131,6 +139,9 @@
 
 - **[garylab/MakeMoneyWithAI](https://github.com/garylab/MakeMoneyWithAI)** `[Beginner]` `Best for: marketers exploring AI monetization use cases` — Curated list of open-source AI projects with real commercial applications, including marketing automation and content tools.
   ![Stars](https://img.shields.io/github/stars/garylab/MakeMoneyWithAI?style=flat-square)
+
+- **[vercel-labs/marketing-team-eve-template](https://github.com/vercel-labs/marketing-team-eve-template)** 🆕 `[Intermediate]` `Best for: standing up a full marketing agent team` — Official Vercel Labs template: a team of marketing agents on the Eve framework. Clone it, brief it, and get a working AI marketing org wired to your repo.
+  ![Stars](https://img.shields.io/github/stars/vercel-labs/marketing-team-eve-template?style=flat-square)
 
 ---
 
@@ -317,6 +328,12 @@
 - **[houtini-ai/better-search-console](https://github.com/houtini-ai/better-search-console)** `[Intermediate]` `Best for: Search Console data analysis` — MCP-powered Google Search Console analysis for Claude and other AI assistants. Useful for finding decay, CTR gaps, cannibalization, and ranking opportunities from real GSC data.
   ![Stars](https://img.shields.io/github/stars/houtini-ai/better-search-console?style=flat-square)
 
+- **[jdevalk/specification.website](https://github.com/jdevalk/specification.website)** 🆕 `[Intermediate]` `Best for: making your site AI-agent ready` — From Joost de Valk (Yoast founder): a living website specification covering HTML, accessibility, security, SEO, and agent-readiness. The de-facto checklist for publishing in the AI era.
+  ![Stars](https://img.shields.io/github/stars/jdevalk/specification.website?style=flat-square)
+
+- **[aigclink/geolook](https://github.com/aigclink/geolook)** 🆕 `[Advanced]` `Best for: running GEO like an SEO program` — Open-source end-to-end generative engine optimization: status analysis, diagnosis, strategy, tickets, execution, and verification for AI-search visibility.
+  ![Stars](https://img.shields.io/github/stars/aigclink/geolook?style=flat-square)
+
 ---
 
 ## 📱 Social Media & Community
@@ -454,6 +471,9 @@
 
 - **[medusajs/medusa](https://github.com/medusajs/medusa)** `[Advanced]` `Best for: product-led growth and commerce-driven marketing` — Open-source commerce infrastructure used by brands for community-driven marketing and product-led growth.
   ![Stars](https://img.shields.io/github/stars/medusajs/medusa?style=flat-square)
+
+- **[tsingyuai/growth-lab](https://github.com/tsingyuai/growth-lab)** 🆕 `[Advanced]` `Best for: autonomous growth loops` — End-to-end open-source growth tool that understands your product, fetches the data it needs, researches the market, executes campaigns, and reviews results to improve the next round.
+  ![Stars](https://img.shields.io/github/stars/tsingyuai/growth-lab?style=flat-square)
 
 ---
 
@@ -815,6 +835,7 @@ Primary KPI: [METRIC]
 | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | [SEO](#-seo--content-optimization) |
 | [activepieces/activepieces](https://github.com/activepieces/activepieces) | [Marketing Automation](#-marketing-automation-platforms) |
 | [agno-agi/agno](https://github.com/agno-agi/agno) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
+| [aigclink/geolook](https://github.com/aigclink/geolook) | [SEO](#-seo--content-optimization) |
 | [airbytehq/airbyte](https://github.com/airbytehq/airbyte) | [Analytics](#-analytics--attribution) |
 | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | [AI Tools](#-ai-marketing-tools--agents) |
 | [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) | [Awesome Lists](#️-awesome-lists--curations) |
@@ -863,6 +884,7 @@ Primary KPI: [METRIC]
 | [houtini-ai/better-search-console](https://github.com/houtini-ai/better-search-console) | [SEO](#-seo--content-optimization) |
 | [Ibrahim-3d/orchestrator-supaconductor](https://github.com/Ibrahim-3d/orchestrator-supaconductor) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
 | [inovector/mixpost](https://github.com/inovector/mixpost) | [Social Media](#-social-media--community) |
+| [jdevalk/specification.website](https://github.com/jdevalk/specification.website) | [SEO](#-seo--content-optimization) |
 | [jim-schwoebel/awesome_ai_agents](https://github.com/jim-schwoebel/awesome_ai_agents) | [Awesome Lists](#️-awesome-lists--curations) |
 | [jmedia65/awesome-ai-marketing](https://github.com/jmedia65/awesome-ai-marketing) | [Awesome Lists](#️-awesome-lists--curations) |
 | [joelbutcher/socialstream](https://github.com/joelbutcher/socialstream) | [Social Media](#-social-media--community) |
@@ -888,6 +910,7 @@ Primary KPI: [METRIC]
 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
 | [metabase/metabase](https://github.com/metabase/metabase) | [Analytics](#-analytics--attribution) |
 | [microsoft/autogen](https://github.com/microsoft/autogen) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
+| [mikiarlo3/ai-copywriter](https://github.com/mikiarlo3/ai-copywriter) | [AI Tools](#-ai-marketing-tools--agents) |
 | [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) | [Email Marketing](#-email-marketing--automation) |
 | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
@@ -914,6 +937,7 @@ Primary KPI: [METRIC]
 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | [Design](#-design--creative-assets) |
 | [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | [SEO](#-seo--content-optimization) |
 | [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) | [Marketing Automation](#-marketing-automation-platforms) |
+| [tsingyuai/growth-lab](https://github.com/tsingyuai/growth-lab) | [Growth Engineering](#-growth-engineering--experimentation) |
 | [tuhinmallick/apify-linkedin-profile-search](https://github.com/tuhinmallick/apify-linkedin-profile-search) | [LinkedIn Tools](#-linkedin-tools--outreach) |
 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | [Lead Generation](#-lead-generation--crm) |
 | [twintproject/twint](https://github.com/twintproject/twint) | [Social Media](#-social-media--community) |
@@ -922,6 +946,7 @@ Primary KPI: [METRIC]
 | [upstash/context7](https://github.com/upstash/context7) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
 | [useplunk/plunk](https://github.com/useplunk/plunk) | [Email Marketing](#-email-marketing--automation) |
 | [veasion/AiPPT](https://github.com/veasion/AiPPT) | [Design](#-design--creative-assets) |
+| [vercel-labs/marketing-team-eve-template](https://github.com/vercel-labs/marketing-team-eve-template) | [AI Tools](#-ai-marketing-tools--agents) |
 | [vercel/next.js](https://github.com/vercel/next.js) | [Design](#-design--creative-assets) |
 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | [Awesome Lists](#️-awesome-lists--curations) |
 | [withastro/astro](https://github.com/withastro/astro) | [Design](#-design--creative-assets) |
@@ -963,4 +988,4 @@ If you find this list useful, please ⭐ star it and share it with your marketin
 
 ---
 
-*Maintained by [@kokasexton](https://github.com/kokasexton) · Last updated June 2026 · 120+ repos across 14 categories*
+*Maintained by [@kokasexton](https://github.com/kokasexton) · Last updated August 2026 · 125+ repos across 14 categories*
