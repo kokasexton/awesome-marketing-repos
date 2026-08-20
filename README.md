@@ -31,6 +31,7 @@
 
 *The latest additions to this list — updated August 2026.*
 
+- **[fly0pants/admapix](https://github.com/fly0pants/admapix)** — Public MCP server and OpenClaw skill for competitor ad creative research → [AI Marketing Tools](#-ai-marketing-tools--agents)
 - **[sergebulaev/linkedin-skills](https://github.com/sergebulaev/linkedin-skills)** — Claude Code/Codex skills for LinkedIn growth: posts, comments, feed analysis → [LinkedIn Tools](#-linkedin-tools--outreach)
 - **[minhnv0807/ai-business-skills](https://github.com/minhnv0807/ai-business-skills)** — 138 bilingual marketing skills with role SOP packs → [AI Marketing Tools](#-ai-marketing-tools--agents)
 - **[rampstackco/claude-skills](https://github.com/rampstackco/claude-skills)** — Stack-agnostic skills for the full website lifecycle → [AI Marketing Tools](#-ai-marketing-tools--agents)
@@ -84,6 +85,9 @@
 ## 🤖 AI Marketing Tools & Agents
 
 > **Start here if:** You want AI to write copy, run experiments, research competitors, or generate content at scale. The skill packs here plug directly into Claude Code and other AI CLIs — no pipeline to build from scratch.
+
+- **[fly0pants/admapix](https://github.com/fly0pants/admapix)** `[Intermediate]` `Best for: teams researching competitor ads` — Public MCP server and OpenClaw skill for searching competitor ad creatives with keyword, country, date, and creative-type filters; see the [official AdMapix site](https://www.admapix.com/) for product access.
+  ![Stars](https://img.shields.io/github/stars/fly0pants/admapix?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/fly0pants/admapix?style=flat-square)
 
 - **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** `[Beginner]` `Best for: AI-first marketing teams` — Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. The most-installed marketing skill pack in the ecosystem.
   ![Stars](https://img.shields.io/github/stars/coreyhaines31/marketingskills?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/coreyhaines31/marketingskills?style=flat-square)
@@ -671,6 +675,8 @@ Other well-maintained awesome lists that complement this one.
 
 `#ai-tools` → [marketingskills](https://github.com/coreyhaines31/marketingskills) · [Alwrity](https://github.com/alwrity/alwrity) · [LangChain](https://github.com/langchain-ai/langchain) · [CrewAI](https://github.com/crewAIInc/crewAI) · [Postiz](https://github.com/gitroomhq/postiz-app)
 
+`#advertising` → [AdMapix](https://github.com/fly0pants/admapix) · [Google Ads Analyzer](https://github.com/mathiaschu/google-ads-analyzer)
+
 `#crm` → [Twenty](https://github.com/twentyhq/twenty) · [Erxes](https://github.com/erxes/erxes) · [Mautic](https://github.com/mautic/mautic)
 
 `#email` → [Mautic](https://github.com/mautic/mautic) · [Listmonk](https://github.com/knadh/listmonk) · [Dittofeed](https://github.com/dittofeed/dittofeed) · [Plunk](https://github.com/useplunk/plunk) · [Parcelvoy](https://github.com/parcelvoy/platform)
@@ -854,6 +860,7 @@ Primary KPI: [METRIC]
 |------|----------|
 | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | [SEO](#-seo--content-optimization) |
 | [activepieces/activepieces](https://github.com/activepieces/activepieces) | [Marketing Automation](#-marketing-automation-platforms) |
+| [fly0pants/admapix](https://github.com/fly0pants/admapix) | [AI Tools](#-ai-marketing-tools--agents) |
 | [agno-agi/agno](https://github.com/agno-agi/agno) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
 | [aigclink/geolook](https://github.com/aigclink/geolook) | [SEO](#-seo--content-optimization) |
 | [airbytehq/airbyte](https://github.com/airbytehq/airbyte) | [Analytics](#-analytics--attribution) |
