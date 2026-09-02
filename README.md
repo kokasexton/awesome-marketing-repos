@@ -360,6 +360,9 @@
 
 > **Start here if:** You want to schedule and publish social content without a $500/month SaaS bill. `gitroomhq/postiz-app` is the most powerful option (15+ platforms, AI-assisted). `inovector/mixpost` is the most straightforward Buffer replacement.
 
+- **[azeemkafridi/bulkpublish-api](https://github.com/azeemkafridi/bulkpublish-api)** `[Intermediate]` `Best for: AI-agent social publishing` — Open-source API and MCP server for creating, adapting, scheduling, publishing, and analyzing content across connected social channels. Hosted MCP access is documented at [app.bulkpublish.com/docs](https://app.bulkpublish.com/docs).
+  ![Stars](https://img.shields.io/github/stars/azeemkafridi/bulkpublish-api?style=flat-square)
+
 - **[gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)** 🆕 `[Beginner]` `Best for: replacing Buffer + Hootsuite` — The ultimate agentic social media scheduling tool. Supports 15+ platforms including X, LinkedIn, Instagram, Reddit, Discord, and Mastodon. AI-assisted content and free under Apache 2.0.
   ![Stars](https://img.shields.io/github/stars/gitroomhq/postiz-app?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/gitroomhq/postiz-app?style=flat-square)
 
