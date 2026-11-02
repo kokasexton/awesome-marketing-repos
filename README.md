@@ -6,7 +6,7 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/kokasexton/awesome-marketing-repos?style=social)
 ![Last Updated](https://img.shields.io/badge/updated-November%202026-blue)
-![Repos](https://img.shields.io/badge/repos-116-brightgreen)
+![Repos](https://img.shields.io/badge/repos-126-brightgreen)
 
 ---
 
@@ -31,6 +31,16 @@
 
 *The latest additions to this list — updated November 2026.*
 
+- **[BrianRWagner/ai-marketing-claude-code-skills](https://github.com/BrianRWagner/ai-marketing-claude-code-skills)** — B2B marketing frameworks Claude executes: positioning, LinkedIn, cold outreach, case studies → [AI Marketing Tools](#-ai-marketing-tools--agents)
+- **[thatrebeccarae/claude-marketing](https://github.com/thatrebeccarae/claude-marketing)** — Full marketing department for Claude Code, incl. B2B LinkedIn Ads/ABM → [AI Marketing Tools](#-ai-marketing-tools--agents)
+- **[OneWave-AI/claude-skills](https://github.com/OneWave-AI/claude-skills)** — 200+ sales, marketing, and design skills for B2B revenue teams → [AI Marketing Tools](#-ai-marketing-tools--agents)
+- **[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)** — ~144k-star design intelligence skill for professional UI/UX → [Design & Creative](#-design--creative-assets)
+- **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** — ~108k-star skill that gives coding agents art direction and taste → [Design & Creative](#-design--creative-assets)
+- **[jiji262/claude-design-skill](https://github.com/jiji262/claude-design-skill)** — Expert-designer skill for HTML decks, landing pages, and posters → [Design & Creative](#-design--creative-assets)
+- **[remotion-dev/skills](https://github.com/remotion-dev/skills)** — Official Remotion Agent Skills for programmatic video → [Design & Creative](#-design--creative-assets)
+- **[digitalsamba/claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit)** — Brief-to-MP4 video production toolkit for Claude Code → [Design & Creative](#-design--creative-assets)
+- **[haidrrrry/claude-remotion-skill](https://github.com/haidrrrry/claude-remotion-skill)** — Motion graphics, captions, and sound design with Remotion → [Design & Creative](#-design--creative-assets)
+- **[wilwaldon/Claude-Code-Video-Toolkit](https://github.com/wilwaldon/Claude-Code-Video-Toolkit)** — Curated video skills, MCP servers, and FFmpeg tooling → [Design & Creative](#-design--creative-assets)
 - **[sergebulaev/linkedin-skills](https://github.com/sergebulaev/linkedin-skills)** — Claude Code/Codex skills for LinkedIn growth: posts, comments, feed analysis → [LinkedIn Tools](#-linkedin-tools--outreach)
 - **[minhnv0807/ai-business-skills](https://github.com/minhnv0807/ai-business-skills)** — 138 bilingual marketing skills with role SOP packs → [AI Marketing Tools](#-ai-marketing-tools--agents)
 - **[rampstackco/claude-skills](https://github.com/rampstackco/claude-skills)** — Stack-agnostic skills for the full website lifecycle → [AI Marketing Tools](#-ai-marketing-tools--agents)
@@ -41,16 +51,6 @@
 - **[jdevalk/specification.website](https://github.com/jdevalk/specification.website)** — Joost de Valk's living spec for HTML, accessibility, SEO, and agent-ready websites → [SEO & Content Optimization](#-seo--content-optimization)
 - **[aigclink/geolook](https://github.com/aigclink/geolook)** — End-to-end open-source GEO implementation: analyze, diagnose, execute, verify → [SEO & Content Optimization](#-seo--content-optimization)
 - **[tsingyuai/growth-lab](https://github.com/tsingyuai/growth-lab)** — End-to-end growth tool that researches the market, executes campaigns, and iterates → [Growth Engineering](#-growth-engineering--experimentation)
-- **[anthropics/claude-code](https://github.com/anthropics/claude-code)** — Official Claude Code repo for repo-native AI execution → [AI Marketing Tools](#-ai-marketing-tools--agents)
-- **[anthropics/skills](https://github.com/anthropics/skills)** — Official reusable agent skills library from Anthropic → [AI Marketing Tools](#-ai-marketing-tools--agents)
-- **[garrytan/gstack](https://github.com/garrytan/gstack)** — Opinionated multi-role AI operating system for Claude Code → [AI Marketing Tools](#-ai-marketing-tools--agents)
-- **[eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain)** — Obsidian vault as AI-first second brain across Claude Code and other CLIs → [AI Marketing Tools](#-ai-marketing-tools--agents)
-- **[langgenius/dify](https://github.com/langgenius/dify)** — Production-ready platform for internal agents and workflow apps → [AI Frameworks](#-ai-frameworks--llm-infrastructure)
-- **[BerriAI/litellm](https://github.com/BerriAI/litellm)** — Unified API gateway for 100+ LLM providers → [AI Frameworks](#-ai-frameworks--llm-infrastructure)
-- **[modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)** — Canonical MCP server collection for connecting agents to tools and data → [AI Frameworks](#-ai-frameworks--llm-infrastructure)
-- **[upstash/context7](https://github.com/upstash/context7)** — Up-to-date docs for coding agents and AI editors → [AI Frameworks](#-ai-frameworks--llm-infrastructure)
-- **[getzep/graphiti](https://github.com/getzep/graphiti)** — Real-time knowledge graph memory for agents → [AI Frameworks](#-ai-frameworks--llm-infrastructure)
-- **[hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)** — Best curated list of Claude Code ecosystem repos, skills, and hooks → [Awesome Lists](#️-awesome-lists--curations)
 
 ---
 
@@ -109,16 +109,16 @@
 - **[mikiarlo3/ai-copywriter](https://github.com/mikiarlo3/ai-copywriter)** 🆕 `[Beginner]` `Best for: teams that want copy that doesn't read like AI` — Open-source AI copywriter built on real copywriting frameworks and marketing psychology, tuned for a human tone. ~1,000 stars in its first two weeks.
   ![Stars](https://img.shields.io/github/stars/mikiarlo3/ai-copywriter?style=flat-square)
 
-- **[anthropics/claude-code](https://github.com/anthropics/claude-code)** 🆕 `[Beginner]` `Best for: marketing operators who want AI inside the real repo and terminal` — Official Claude Code repo. The fastest path to turning prompts into audits, edits, scripts, and repo-native marketing workflows without building your own agent shell.
+- **[anthropics/claude-code](https://github.com/anthropics/claude-code)** `[Beginner]` `Best for: marketing operators who want AI inside the real repo and terminal` — Official Claude Code repo. The fastest path to turning prompts into audits, edits, scripts, and repo-native marketing workflows without building your own agent shell.
   ![Stars](https://img.shields.io/github/stars/anthropics/claude-code?style=flat-square)
 
-- **[anthropics/skills](https://github.com/anthropics/skills)** 🆕 `[Intermediate]` `Best for: teams productizing repeatable marketing workflows` — Official public Agent Skills repository from Anthropic. Reusable skill patterns for turning prompts into structured execution playbooks.
+- **[anthropics/skills](https://github.com/anthropics/skills)** `[Intermediate]` `Best for: teams productizing repeatable marketing workflows` — Official public Agent Skills repository from Anthropic. Reusable skill patterns for turning prompts into structured execution playbooks.
   ![Stars](https://img.shields.io/github/stars/anthropics/skills?style=flat-square)
 
-- **[garrytan/gstack](https://github.com/garrytan/gstack)** 🆕 `[Intermediate]` `Best for: founder-led teams building an AI operating system` — Opinionated Claude Code setup with role-based skills for CEO review, design, QA, release management, docs, and multi-agent execution.
+- **[garrytan/gstack](https://github.com/garrytan/gstack)** `[Intermediate]` `Best for: founder-led teams building an AI operating system` — Opinionated Claude Code setup with role-based skills for CEO review, design, QA, release management, docs, and multi-agent execution.
   ![Stars](https://img.shields.io/github/stars/garrytan/gstack?style=flat-square)
 
-- **[eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain)** 🆕 `[Intermediate]` `Best for: marketers connecting research, GTM notes, and execution` — Cross-CLI Obsidian skill pack that turns a vault into an AI-first second brain across Claude Code, Codex, Gemini, and OpenCode.
+- **[eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain)** `[Intermediate]` `Best for: marketers connecting research, GTM notes, and execution` — Cross-CLI Obsidian skill pack that turns a vault into an AI-first second brain across Claude Code, Codex, Gemini, and OpenCode.
   ![Stars](https://img.shields.io/github/stars/eugeniughelbur/obsidian-second-brain?style=flat-square)
 
 - **[alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)** `[Intermediate]` `Best for: cross-functional marketing, product, and ops teams` — Large cross-CLI skills and plugins library with dedicated marketing, research, business ops, and executive advisory packs.
@@ -144,6 +144,15 @@
 
 - **[rampstackco/claude-skills](https://github.com/rampstackco/claude-skills)** 🆕 `[Intermediate]` `Best for: full website lifecycle marketing` — Stack-agnostic Claude Skills covering brand, design, content, SEO, dev, ops, growth, and research. Build, ship, audit, and optimize a site from one skill pack.
   ![Stars](https://img.shields.io/github/stars/rampstackco/claude-skills?style=flat-square)
+
+- **[BrianRWagner/ai-marketing-claude-code-skills](https://github.com/BrianRWagner/ai-marketing-claude-code-skills)** 🆕 `[Beginner]` `Best for: B2B consultants and founder-led marketing` — Marketing frameworks that Claude actually executes: positioning, ICP-based content ideas, LinkedIn authority and profile optimization, cold outreach sequences, case study builder, homepage audits, and AI-discoverability audits.
+  ![Stars](https://img.shields.io/github/stars/BrianRWagner/ai-marketing-claude-code-skills?style=flat-square)
+
+- **[thatrebeccarae/claude-marketing](https://github.com/thatrebeccarae/claude-marketing)** 🆕 `[Intermediate]` `Best for: in-house teams running paid media and lifecycle` — "A full marketing department for Claude Code." 50+ skills and agents for Klaviyo, Shopify, GA4, Looker Studio, and paid media, including a B2B LinkedIn Ads skill for ABM, Lead Gen Forms, and Matched Audiences.
+  ![Stars](https://img.shields.io/github/stars/thatrebeccarae/claude-marketing?style=flat-square)
+
+- **[OneWave-AI/claude-skills](https://github.com/OneWave-AI/claude-skills)** 🆕 `[Intermediate]` `Best for: B2B revenue teams covering sales and marketing` — 200+ Claude Code skills spanning sales (ICP scanning, intent signals, lead scoring, cold email sequences, pipeline health), marketing (landing page copy, LinkedIn, competitor intel), and design systems.
+  ![Stars](https://img.shields.io/github/stars/OneWave-AI/claude-skills?style=flat-square)
 
 **Also see:** **[brightdata/ai-lead-generator](#-lead-generation--crm)** · **[jmedia65/awesome-ai-marketing](#️-awesome-lists--curations)**
 
@@ -186,22 +195,22 @@
 - **[lobehub/lobehub](https://github.com/lobehub/lobehub)** `[Beginner]` `Best for: marketing teams running shared AI workflows` — Modern open-source AI workspace with multi-model chat, agents, knowledge base support, and team-friendly workflows.
   ![Stars](https://img.shields.io/github/stars/lobehub/lobehub?style=flat-square)
 
-- **[langgenius/dify](https://github.com/langgenius/dify)** 🆕 `[Intermediate]` `Best for: shipping internal marketing agents without starting from scratch` — Production-ready platform for building agentic workflows, internal copilots, and knowledge apps with a strong UI and ops layer.
+- **[langgenius/dify](https://github.com/langgenius/dify)** `[Intermediate]` `Best for: shipping internal marketing agents without starting from scratch` — Production-ready platform for building agentic workflows, internal copilots, and knowledge apps with a strong UI and ops layer.
   ![Stars](https://img.shields.io/github/stars/langgenius/dify?style=flat-square)
 
-- **[BerriAI/litellm](https://github.com/BerriAI/litellm)** 🆕 `[Advanced]` `Best for: multi-model marketing stacks that need one API surface` — LLM gateway and proxy for calling 100+ model providers with logging, guardrails, budgets, and fallback routing.
+- **[BerriAI/litellm](https://github.com/BerriAI/litellm)** `[Advanced]` `Best for: multi-model marketing stacks that need one API surface` — LLM gateway and proxy for calling 100+ model providers with logging, guardrails, budgets, and fallback routing.
   ![Stars](https://img.shields.io/github/stars/BerriAI/litellm?style=flat-square)
 
-- **[getzep/graphiti](https://github.com/getzep/graphiti)** 🆕 `[Advanced]` `Best for: agent memory built on real-time knowledge graphs` — Real-time knowledge graph framework for AI agents that need persistent relationship-aware memory across accounts, campaigns, and research.
+- **[getzep/graphiti](https://github.com/getzep/graphiti)** `[Advanced]` `Best for: agent memory built on real-time knowledge graphs` — Real-time knowledge graph framework for AI agents that need persistent relationship-aware memory across accounts, campaigns, and research.
   ![Stars](https://img.shields.io/github/stars/getzep/graphiti?style=flat-square)
 
 - **[agno-agi/agno](https://github.com/agno-agi/agno)** `[Advanced]` `Best for: teams building full agent platforms, not single prompts` — Agent platform framework for building, running, and managing production agent systems with memory, tools, and orchestration.
   ![Stars](https://img.shields.io/github/stars/agno-agi/agno?style=flat-square)
 
-- **[modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)** 🆕 `[Intermediate]` `Best for: connecting AI agents to the rest of the marketing stack` — Official collection of MCP servers. The fastest path to giving agents controlled access to docs, browsers, files, APIs, and SaaS tools.
+- **[modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)** `[Intermediate]` `Best for: connecting AI agents to the rest of the marketing stack` — Official collection of MCP servers. The fastest path to giving agents controlled access to docs, browsers, files, APIs, and SaaS tools.
   ![Stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=flat-square)
 
-- **[upstash/context7](https://github.com/upstash/context7)** 🆕 `[Intermediate]` `Best for: keeping coding agents synced to current docs` — Fresh code documentation platform for LLMs and AI code editors. Useful when marketing engineers are building on fast-moving SDKs and frameworks.
+- **[upstash/context7](https://github.com/upstash/context7)** `[Intermediate]` `Best for: keeping coding agents synced to current docs` — Fresh code documentation platform for LLMs and AI code editors. Useful when marketing engineers are building on fast-moving SDKs and frameworks.
   ![Stars](https://img.shields.io/github/stars/upstash/context7?style=flat-square)
 
 - **[coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api)** `[Intermediate]` `Best for: vault-native automation and second-brain writeback` — Secure REST API and MCP server for Obsidian. Critical plumbing if your marketing research system lives inside a vault.
@@ -387,7 +396,7 @@
 
 ## 🎨 Design & Creative Assets
 
-> **Start here if:** You need to build landing pages or produce visual marketing assets. `penpot/penpot` is your Figma alternative for design work. `vercel/next.js` or `withastro/astro` are the frameworks for building the actual pages. For AI-generated video, `harry0703/MoneyPrinterTurbo` is the fastest path.
+> **Start here if:** You need to build landing pages or produce visual marketing assets. `penpot/penpot` is your Figma alternative for design work. `vercel/next.js` or `withastro/astro` are the frameworks for building the actual pages. For AI-generated video, `harry0703/MoneyPrinterTurbo` is the fastest path. If you work in Claude Code, `nextlevelbuilder/ui-ux-pro-max-skill` and `Leonxlnx/taste-skill` fix generic-looking AI design, and `remotion-dev/skills` plus `digitalsamba/claude-code-video-toolkit` cover video production.
 
 - **[penpot/penpot](https://github.com/penpot/penpot)** `[Beginner]` `Best for: design teams replacing Figma` — Open-source design and prototyping platform. The open-source alternative to Figma for marketing design teams.
   ![Stars](https://img.shields.io/github/stars/penpot/penpot?style=flat-square)
@@ -415,6 +424,27 @@
 
 - **[mkdocs/mkdocs](https://github.com/mkdocs/mkdocs)** `[Beginner]` `Best for: release notes, changelog hubs, and product docs` — Fast Markdown-based documentation site generator. A solid open-source way to publish product updates, release notes, and docs hubs from one content base.
   ![Stars](https://img.shields.io/github/stars/mkdocs/mkdocs?style=flat-square)
+
+- **[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)** 🆕 `[Beginner]` `Best for: landing pages and product UI that don't look AI-generated` — One of the most-starred design skills in the ecosystem (~144k stars). Gives coding agents design intelligence — styles, palettes, font pairings, and UX rules — for professional UI across platforms.
+  ![Stars](https://img.shields.io/github/stars/nextlevelbuilder/ui-ux-pro-max-skill?style=flat-square)
+
+- **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** 🆕 `[Beginner]` `Best for: art-directed marketing sites` — Agent skills that give coding agents taste: art direction, reference images, and a browser check instead of generic AI pages. ~108k stars.
+  ![Stars](https://img.shields.io/github/stars/Leonxlnx/taste-skill?style=flat-square)
+
+- **[jiji262/claude-design-skill](https://github.com/jiji262/claude-design-skill)** 🆕 `[Beginner]` `Best for: decks, landing pages, and posters as HTML` — Portable Claude Skill that turns Claude into an expert designer for HTML artifacts — slide decks, landing pages, prototypes, animations, and posters — with starter templates.
+  ![Stars](https://img.shields.io/github/stars/jiji262/claude-design-skill?style=flat-square)
+
+- **[remotion-dev/skills](https://github.com/remotion-dev/skills)** 🆕 `[Intermediate]` `Best for: teams producing programmatic marketing video` — Official Agent Skills from the Remotion team, encoding best practices so Claude Code writes correct, polished Remotion video compositions.
+  ![Stars](https://img.shields.io/github/stars/remotion-dev/skills?style=flat-square)
+
+- **[digitalsamba/claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit)** 🆕 `[Intermediate]` `Best for: turning a brief into a finished promo or explainer` — AI-native video production toolkit for Claude Code: brief → script → voiceover → music → visuals → rendered MP4. Skills for Remotion, ElevenLabs, FFmpeg, Playwright screen recording, and more.
+  ![Stars](https://img.shields.io/github/stars/digitalsamba/claude-code-video-toolkit?style=flat-square)
+
+- **[haidrrrry/claude-remotion-skill](https://github.com/haidrrrry/claude-remotion-skill)** 🆕 `[Beginner]` `Best for: motion graphics and social video ads` — MIT-licensed skill that teaches Claude to build and edit motion-graphics videos in Remotion: easing and staggered animation, color grading, word-synced captions, sound design, and a render-inspect-fix loop.
+  ![Stars](https://img.shields.io/github/stars/haidrrrry/claude-remotion-skill?style=flat-square)
+
+- **[wilwaldon/Claude-Code-Video-Toolkit](https://github.com/wilwaldon/Claude-Code-Video-Toolkit)** 🆕 `[Intermediate]` `Best for: finding the right video tool for a job` — Curated skills, MCP servers, and tools for video with Claude Code: Remotion and Manim, screen recording, YouTube clipping and subtitles, and FFmpeg post-processing.
+  ![Stars](https://img.shields.io/github/stars/wilwaldon/Claude-Code-Video-Toolkit?style=flat-square)
 
 ---
 
@@ -509,7 +539,7 @@ Other well-maintained awesome lists that complement this one.
 - **[marketingtoolslist/awesome-marketing](https://github.com/marketingtoolslist/awesome-marketing)** — A broad curated list of marketing tools, books, blogs, podcasts, and resources.
   ![Stars](https://img.shields.io/github/stars/marketingtoolslist/awesome-marketing?style=flat-square)
 
-- **[hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)** 🆕 — High-signal curated list of Claude Code skills, hooks, slash commands, orchestrators, and plugins.
+- **[hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)** — High-signal curated list of Claude Code skills, hooks, slash commands, orchestrators, and plugins.
   ![Stars](https://img.shields.io/github/stars/hesreallyhim/awesome-claude-code?style=flat-square)
 
 - **[jmedia65/awesome-ai-marketing](https://github.com/jmedia65/awesome-ai-marketing)** — AI marketing tools and prompts organized by function.
@@ -627,6 +657,10 @@ Other well-maintained awesome lists that complement this one.
 `#seo` → [open-seo](https://github.com/every-app/open-seo) · [seomachine](https://github.com/TheCraigHewitt/seomachine) · [claude-seo](https://github.com/AgriciDaniel/claude-seo) · [awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools)
 
 `#social-media` → [Postiz](https://github.com/gitroomhq/postiz-app) · [Mixpost](https://github.com/inovector/mixpost)
+
+`#design` → [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) · [taste-skill](https://github.com/Leonxlnx/taste-skill) · [claude-design-skill](https://github.com/jiji262/claude-design-skill) · [Penpot](https://github.com/penpot/penpot)
+
+`#video` → [Remotion Skills](https://github.com/remotion-dev/skills) · [claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) · [claude-remotion-skill](https://github.com/haidrrrry/claude-remotion-skill) · [video-use](https://github.com/browser-use/video-use) · [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 
 `#experimentation` → [GrowthBook](https://github.com/growthbook/growthbook) · [PostHog](https://github.com/PostHog/posthog) · [Flagsmith](https://github.com/flagsmith/flagsmith)
 
@@ -817,6 +851,7 @@ Primary KPI: [METRIC]
 | [apify/crawlee](https://github.com/apify/crawlee) | [Lead Generation](#-lead-generation--crm) |
 | [automatisch/automatisch](https://github.com/automatisch/automatisch) | [Marketing Automation](#-marketing-automation-platforms) |
 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
+| [BrianRWagner/ai-marketing-claude-code-skills](https://github.com/BrianRWagner/ai-marketing-claude-code-skills) | [AI Tools](#-ai-marketing-tools--agents) |
 | [brightdata/ai-lead-generator](https://github.com/brightdata/ai-lead-generator) | [Lead Generation](#-lead-generation--crm) |
 | [browser-use/video-use](https://github.com/browser-use/video-use) | [Design](#-design--creative-assets) |
 | [caramaschiHG/awesome-ai-agents-2026](https://github.com/caramaschiHG/awesome-ai-agents-2026) | [AI Tools](#-ai-marketing-tools--agents) |
@@ -826,6 +861,7 @@ Primary KPI: [METRIC]
 | [dair-ai/AI-Papers-of-the-Week](https://github.com/dair-ai/AI-Papers-of-the-Week) | [Learning Resources](#-learning-resources--prompts) |
 | [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | [Learning Resources](#-learning-resources--prompts) |
 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) | [Analytics](#-analytics--attribution) |
+| [digitalsamba/claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) | [Design](#-design--creative-assets) |
 | [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) | [Email Marketing](#-email-marketing--automation) |
 | [eracle/OpenOutreach](https://github.com/eracle/OpenOutreach) | [LinkedIn Tools](#-linkedin-tools--outreach) |
 | [ericosiu/ai-marketing-skills](https://github.com/ericosiu/ai-marketing-skills) | [AI Tools](#-ai-marketing-tools--agents) |
@@ -841,6 +877,7 @@ Primary KPI: [METRIC]
 | [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | [Social Media](#-social-media--community) |
 | [googleworkspace/cli](https://github.com/googleworkspace/cli) | [Marketing Automation](#-marketing-automation-platforms) |
 | [growthbook/growthbook](https://github.com/growthbook/growthbook) | [Growth Engineering](#-growth-engineering--experimentation) |
+| [haidrrrry/claude-remotion-skill](https://github.com/haidrrrry/claude-remotion-skill) | [Design](#-design--creative-assets) |
 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [Design](#-design--creative-assets) |
 | [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | [Awesome Lists](#️-awesome-lists--curations) |
 | [houtini-ai/better-search-console](https://github.com/houtini-ai/better-search-console) | [SEO](#-seo--content-optimization) |
@@ -849,6 +886,7 @@ Primary KPI: [METRIC]
 | [Ibrahim-3d/orchestrator-supaconductor](https://github.com/Ibrahim-3d/orchestrator-supaconductor) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
 | [inovector/mixpost](https://github.com/inovector/mixpost) | [Social Media](#-social-media--community) |
 | [jdevalk/specification.website](https://github.com/jdevalk/specification.website) | [SEO](#-seo--content-optimization) |
+| [jiji262/claude-design-skill](https://github.com/jiji262/claude-design-skill) | [Design](#-design--creative-assets) |
 | [jim-schwoebel/awesome_ai_agents](https://github.com/jim-schwoebel/awesome_ai_agents) | [Awesome Lists](#️-awesome-lists--curations) |
 | [jmedia65/awesome-ai-marketing](https://github.com/jmedia65/awesome-ai-marketing) | [Awesome Lists](#️-awesome-lists--curations) |
 | [joeyism/linkedin_scraper](https://github.com/joeyism/linkedin_scraper) | [LinkedIn Tools](#-linkedin-tools--outreach) |
@@ -860,6 +898,7 @@ Primary KPI: [METRIC]
 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
 | [langgenius/dify](https://github.com/langgenius/dify) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | [Design](#-design--creative-assets) |
 | [linkdAPI/linkedin-leads-discover](https://github.com/linkdAPI/linkedin-leads-discover) | [LinkedIn Tools](#-linkedin-tools--outreach) |
 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
 | [Madi-S/Lead-Generation](https://github.com/Madi-S/Lead-Generation) | [Lead Generation](#-lead-generation--crm) |
@@ -878,7 +917,9 @@ Primary KPI: [METRIC]
 | [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) | [Design](#-design--creative-assets) |
 | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | [Marketing Automation](#-marketing-automation-platforms) |
+| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | [Design](#-design--creative-assets) |
 | [nocodb/nocodb](https://github.com/nocodb/nocodb) | [Advertising](#-advertising--paid-media) |
+| [OneWave-AI/claude-skills](https://github.com/OneWave-AI/claude-skills) | [AI Tools](#-ai-marketing-tools--agents) |
 | [openai/openai-cookbook](https://github.com/openai/openai-cookbook) | [Learning Resources](#-learning-resources--prompts) |
 | [OpenClaudia/openclaudia-skills](https://github.com/OpenClaudia/openclaudia-skills) | [AI Tools](#-ai-marketing-tools--agents) |
 | [parcelvoy/platform](https://github.com/parcelvoy/platform) | [Email Marketing](#-email-marketing--automation) |
@@ -889,6 +930,7 @@ Primary KPI: [METRIC]
 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | [Learning Resources](#-learning-resources--prompts) |
 | [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
 | [rampstackco/claude-skills](https://github.com/rampstackco/claude-skills) | [AI Tools](#-ai-marketing-tools--agents) |
+| [remotion-dev/skills](https://github.com/remotion-dev/skills) | [Design](#-design--creative-assets) |
 | [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) | [Analytics](#-analytics--attribution) |
 | [sergebulaev/linkedin-skills](https://github.com/sergebulaev/linkedin-skills) | [LinkedIn Tools](#-linkedin-tools--outreach) |
 | [serpapi/awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools) | [SEO](#-seo--content-optimization) |
@@ -898,6 +940,7 @@ Primary KPI: [METRIC]
 | [spinlud/py-linkedin-jobs-scraper](https://github.com/spinlud/py-linkedin-jobs-scraper) | [LinkedIn Tools](#-linkedin-tools--outreach) |
 | [supabase/supabase](https://github.com/supabase/supabase) | [Lead Generation](#-lead-generation--crm) |
 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | [Design](#-design--creative-assets) |
+| [thatrebeccarae/claude-marketing](https://github.com/thatrebeccarae/claude-marketing) | [AI Tools](#-ai-marketing-tools--agents) |
 | [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | [SEO](#-seo--content-optimization) |
 | [tomquirk/linkedin-api](https://github.com/tomquirk/linkedin-api) | [LinkedIn Tools](#-linkedin-tools--outreach) |
 | [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) | [Marketing Automation](#-marketing-automation-platforms) |
@@ -912,6 +955,7 @@ Primary KPI: [METRIC]
 | [vercel-labs/marketing-team-eve-template](https://github.com/vercel-labs/marketing-team-eve-template) | [AI Tools](#-ai-marketing-tools--agents) |
 | [vercel/next.js](https://github.com/vercel/next.js) | [Design](#-design--creative-assets) |
 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | [Awesome Lists](#️-awesome-lists--curations) |
+| [wilwaldon/Claude-Code-Video-Toolkit](https://github.com/wilwaldon/Claude-Code-Video-Toolkit) | [Design](#-design--creative-assets) |
 | [withastro/astro](https://github.com/withastro/astro) | [Design](#-design--creative-assets) |
 | [zubair-trabzada/ai-marketing-claude](https://github.com/zubair-trabzada/ai-marketing-claude) | [AI Tools](#-ai-marketing-tools--agents) |
 | [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
@@ -939,4 +983,4 @@ If you find this list useful, please ⭐ star it and share it with your marketin
 
 ---
 
-*Maintained by [@kokasexton](https://github.com/kokasexton) · Last updated November 2026 · 116 repos across 14 categories · Licensed [CC0 1.0](LICENSE)*
+*Maintained by [@kokasexton](https://github.com/kokasexton) · Last updated November 2026 · 126 repos across 14 categories · Licensed [CC0 1.0](LICENSE)*
