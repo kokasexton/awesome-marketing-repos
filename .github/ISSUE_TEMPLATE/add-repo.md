@@ -17,6 +17,7 @@ labels: add-repo
 - [ ] Social Media & Community
 - [ ] Lead Generation & CRM
 - [ ] Design & Creative Assets
+- [ ] Video Production & Motion
 - [ ] Advertising & Paid Media
 - [ ] Growth Engineering & Experimentation
 - [ ] Marketing Automation Platforms

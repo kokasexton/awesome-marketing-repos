@@ -69,6 +69,7 @@ These are also available as selectable templates when you open an issue.
 [ ] Social Media & Community
 [ ] Lead Generation & CRM
 [ ] Design & Creative Assets
+[ ] Video Production & Motion
 [ ] Advertising & Paid Media
 [ ] Growth Engineering & Experimentation
 [ ] Marketing Automation Platforms
