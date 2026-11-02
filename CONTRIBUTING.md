@@ -34,21 +34,25 @@ We do **not** include:
    ```
 3. **Add your entry** to the most relevant section in `README.md` using this format:
    ```markdown
-   - **[owner/repo](https://github.com/owner/repo)** `[Beginner/Intermediate/Advanced]` `Best for: audience description` — One clear sentence describing what it does and why marketers care.
-     ![Stars](https://img.shields.io/github/stars/owner/repo?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/owner/repo?style=flat-square)
+   - **[owner/repo](https://github.com/owner/repo)** 🆕 `[Beginner/Intermediate/Advanced]` `Best for: audience description` — One clear sentence describing what it does and why marketers care.
+     ![Stars](https://img.shields.io/github/stars/owner/repo?style=flat-square)
    ```
-4. **Add the repo to the Alphabetical Index** at the bottom of `README.md`
-5. **Add it to the Recently Added section** at the top
+   Each repo lives in **one** section only. If it is relevant elsewhere, add it to that section's **Also see:** line instead of duplicating the entry.
+4. **Add the repo to the Alphabetical Index** at the bottom of `README.md`, keeping it sorted case-insensitively by `owner/repo`
+5. **Add it to the Recently Added section** at the top. The 🆕 tag goes only on repos listed in Recently Added; remove the tag from any entry you rotate out of that list
 6. **Update the tag section** if relevant tags apply
-7. **Submit a pull request** with the title: `Add: owner/repo — One-line description`
+7. **Run the checks** locally: `python3 scripts/check_readme.py`
+8. **Submit a pull request** with the title: `Add: owner/repo — One-line description`
 
 ### Option 2: Open an Issue
 
-Not comfortable with PRs? [Open an issue](https://github.com/kokasexton/awesome-marketing-repos/issues/new) using the template below and we'll add it for you.
+Not comfortable with PRs? [Open an issue](https://github.com/kokasexton/awesome-marketing-repos/issues/new/choose) and pick the matching template (they live in `.github/ISSUE_TEMPLATE/`). We'll add it for you.
 
 ---
 
 ## Issue Templates
+
+These are also available as selectable templates when you open an issue.
 
 ### 🆕 Request: Add a New Repo
 
@@ -136,9 +140,14 @@ Keep these short and specific. Examples:
 
 ### Shields Badges
 
-Always include both badges using this format:
+Every entry includes a Stars badge:
 ```markdown
-![Stars](https://img.shields.io/github/stars/OWNER/REPO?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/OWNER/REPO?style=flat-square)
+![Stars](https://img.shields.io/github/stars/OWNER/REPO?style=flat-square)
+```
+
+Editor's Picks and other flagship entries may also add a Last Commit badge:
+```markdown
+![Last Commit](https://img.shields.io/github/last-commit/OWNER/REPO?style=flat-square)
 ```
 
 Replace `OWNER/REPO` with the actual GitHub path.
@@ -148,6 +157,20 @@ Replace `OWNER/REPO` with the actual GitHub path.
 ## Disclosure
 
 If you're submitting a repo you created or are affiliated with, please disclose this in your PR description or issue. We welcome creator submissions — we just want transparency for readers.
+
+---
+
+## Automated Checks
+
+Every pull request runs two checks (see `.github/workflows/`):
+- **README consistency** (`scripts/check_readme.py`): every listed repo appears in the Alphabetical Index, the index is sorted, no repo is listed in more than one section, 🆕 tags match Recently Added, and the repo counts are accurate.
+- **Link check** ([lychee](https://github.com/lycheeverse/lychee)): catches dead or moved links. It also runs weekly so link rot gets noticed.
+
+---
+
+## License
+
+By contributing, you agree that your contributions are dedicated to the public domain under [CC0 1.0](LICENSE).
 
 ---
 
