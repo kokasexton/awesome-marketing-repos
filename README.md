@@ -6,7 +6,7 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/kokasexton/awesome-marketing-repos?style=social)
 ![Last Updated](https://img.shields.io/badge/updated-November%202026-blue)
-![Repos](https://img.shields.io/badge/repos-141-brightgreen)
+![Repos](https://img.shields.io/badge/repos-142-brightgreen)
 
 ---
 
@@ -30,6 +30,8 @@
 ## 🆕 Recently Added
 
 *The latest additions to this list — updated November 2026.*
+
+- **[thinkpad2050/telegram-sponsorship-cpm-calculator](https://github.com/thinkpad2050/telegram-sponsorship-cpm-calculator)** 🆕 `[Beginner]` `Best for: marketing teams comparing Telegram channel placement quotes` — MIT-licensed browser calculator for comparing quotes against the median views of comparable recent posts. → [Advertising & Paid Media](#-advertising--paid-media)
 
 - **[obra/superpowers](https://github.com/obra/superpowers)** — ~311k-star agentic skills framework and working methodology → [AI Marketing Tools](#-ai-marketing-tools--agents)
 - **[affaan-m/ECC](https://github.com/affaan-m/ECC)** — Everything Claude Code: ~295k-star skills, memory, and security system → [AI Marketing Tools](#-ai-marketing-tools--agents)
@@ -509,6 +511,9 @@
 
 - **[mathiaschu/google-ads-analyzer](https://github.com/mathiaschu/google-ads-analyzer)** `[Advanced]` `Best for: AI-assisted Google Ads audits` — Claude Code skill plus MCP setup for expert-level Google Ads analysis, with GAQL templates, bidding diagnostics, and campaign audit workflows.
   ![Stars](https://img.shields.io/github/stars/mathiaschu/google-ads-analyzer?style=flat-square)
+
+- **[thinkpad2050/telegram-sponsorship-cpm-calculator](https://github.com/thinkpad2050/telegram-sponsorship-cpm-calculator)** 🆕 `[Beginner]` `Best for: marketing teams comparing Telegram channel placement quotes` — MIT-licensed browser calculator that estimates CPM from the quote and median views of comparable recent posts; inputs stay in the browser.
+  ![Stars](https://img.shields.io/github/stars/thinkpad2050/telegram-sponsorship-cpm-calculator?style=flat-square)
 
 **Also see:** **[airbytehq/airbyte](#-analytics--attribution)** · **[metabase/metabase](#-analytics--attribution)**
 
@@ -1008,6 +1013,7 @@ Primary KPI: [METRIC]
 | [thatrebeccarae/claude-marketing](https://github.com/thatrebeccarae/claude-marketing) | [AI Tools](#-ai-marketing-tools--agents) |
 | [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | [SEO](#-seo--content-optimization) |
 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [AI Frameworks](#-ai-frameworks--llm-infrastructure) |
+| [thinkpad2050/telegram-sponsorship-cpm-calculator](https://github.com/thinkpad2050/telegram-sponsorship-cpm-calculator) | [Advertising](#-advertising--paid-media) |
 | [tomquirk/linkedin-api](https://github.com/tomquirk/linkedin-api) | [LinkedIn Tools](#-linkedin-tools--outreach) |
 | [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) | [Marketing Automation](#-marketing-automation-platforms) |
 | [tsingyuai/growth-lab](https://github.com/tsingyuai/growth-lab) | [Growth Engineering](#-growth-engineering--experimentation) |
@@ -1052,4 +1058,4 @@ If you find this list useful, please ⭐ star it and share it with your marketin
 
 ---
 
-*Maintained by [@kokasexton](https://github.com/kokasexton) · Last updated November 2026 · 141 repos across 15 categories · Licensed [CC0 1.0](LICENSE)*
+*Maintained by [@kokasexton](https://github.com/kokasexton) · Last updated November 2026 · 142 repos across 15 categories · Licensed [CC0 1.0](LICENSE)*
