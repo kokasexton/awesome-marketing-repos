@@ -6,7 +6,7 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/kokasexton/awesome-marketing-repos?style=social)
 ![Last Updated](https://img.shields.io/badge/updated-November%202026-blue)
-![Repos](https://img.shields.io/badge/repos-141-brightgreen)
+![Repos](https://img.shields.io/badge/repos-142-brightgreen)
 
 ---
 
@@ -31,6 +31,7 @@
 
 *The latest additions to this list — updated November 2026.*
 
+- **[ankurmans/vertov-screen-recorder](https://github.com/ankurmans/vertov-screen-recorder)** — Self-hostable browser recorder for product walkthroughs with transcript-based cuts and captions → [Video Production](#-video-production--motion)
 - **[obra/superpowers](https://github.com/obra/superpowers)** — ~311k-star agentic skills framework and working methodology → [AI Marketing Tools](#-ai-marketing-tools--agents)
 - **[affaan-m/ECC](https://github.com/affaan-m/ECC)** — Everything Claude Code: ~295k-star skills, memory, and security system → [AI Marketing Tools](#-ai-marketing-tools--agents)
 - **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** — ~110k-star persistent memory across Claude Code sessions → [AI Frameworks](#-ai-frameworks--llm-infrastructure)
@@ -458,6 +459,9 @@
 ## 🎬 Video Production & Motion
 
 > **Start here if:** You need promo videos, explainers, or social ads without a production team. `heygen-com/hyperframes` and `remotion-dev/skills` are the two foundations for agent-written video. `digitalsamba/claude-code-video-toolkit` takes a brief all the way to a rendered MP4, and `harry0703/MoneyPrinterTurbo` is the fastest path to short-form video at scale.
+
+- **[ankurmans/vertov-screen-recorder](https://github.com/ankurmans/vertov-screen-recorder)** 🆕 `[Intermediate]` `Best for: product walkthroughs with editable transcripts` — Self-hostable browser screen recorder for creating product demos, cutting footage by editing the transcript, and sharing captioned videos.
+  ![Stars](https://img.shields.io/github/stars/ankurmans/vertov-screen-recorder?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/ankurmans/vertov-screen-recorder?style=flat-square)
 
 - **[remotion-dev/skills](https://github.com/remotion-dev/skills)** `[Intermediate]` `Best for: teams producing programmatic marketing video` — Official Agent Skills from the Remotion team, encoding best practices so Claude Code writes correct, polished Remotion video compositions.
   ![Stars](https://img.shields.io/github/stars/remotion-dev/skills?style=flat-square)
@@ -898,6 +902,7 @@ Primary KPI: [METRIC]
 | [alternbits/awesome-ai-marketing](https://github.com/alternbits/awesome-ai-marketing) | [AI Tools](#-ai-marketing-tools--agents) |
 | [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) | [Awesome Lists](#️-awesome-lists--curations) |
 | [alwrity/alwrity](https://github.com/alwrity/alwrity) | [AI Tools](#-ai-marketing-tools--agents) |
+| [ankurmans/vertov-screen-recorder](https://github.com/ankurmans/vertov-screen-recorder) | [Video Production](#-video-production--motion) |
 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | [AI Tools](#-ai-marketing-tools--agents) |
 | [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) | [AI Tools](#-ai-marketing-tools--agents) |
 | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | [Learning Resources](#-learning-resources--prompts) |
@@ -1052,4 +1057,4 @@ If you find this list useful, please ⭐ star it and share it with your marketin
 
 ---
 
-*Maintained by [@kokasexton](https://github.com/kokasexton) · Last updated November 2026 · 141 repos across 15 categories · Licensed [CC0 1.0](LICENSE)*
+*Maintained by [@kokasexton](https://github.com/kokasexton) · Last updated November 2026 · 142 repos across 15 categories · Licensed [CC0 1.0](LICENSE)*
